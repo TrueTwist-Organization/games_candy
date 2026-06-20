@@ -1,0 +1,34 @@
+RewriteEngine On
+RewriteBase /
+
+DirectoryIndex index.php index.html
+
+RewriteRule ^admin/data/ - [F,L]
+
+# Security: block direct access to includes and scripts
+RewriteRule ^includes/ - [F,L]
+RewriteRule ^scripts/ - [F,L]
+RewriteRule ^lib/ - [F,L]
+RewriteRule ^node_modules/ - [F,L]
+
+# Unity / WebGL game assets
+AddType application/wasm .wasm .wasm.unityweb
+AddType application/javascript .js .js.unityweb .loader.js
+AddType application/octet-stream .data.unityweb .unityweb
+
+# Serve static assets from public/ when they exist
+RewriteCond %{DOCUMENT_ROOT}/public%{REQUEST_URI} -f
+RewriteRule ^(.*)$ public/$1 [L]
+
+# Directory index.html inside public/
+RewriteCond %{DOCUMENT_ROOT}/public%{REQUEST_URI}/index.html -f
+RewriteRule ^(.*)$ public/$1/index.html [L]
+
+# Root homepage
+RewriteRule ^$ public/index.html [L]
+
+# PHP front controller for dynamic routes (proxy, API, missing pages, HTML sanitize)
+RewriteCond %{REQUEST_URI} \.html$ [OR]
+RewriteCond %{REQUEST_URI} !\.[a-zA-Z0-9]+$
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ index.php [L]

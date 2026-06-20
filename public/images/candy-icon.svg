@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none" role="img" aria-label="GamesCandy candy icon">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#6340F5"/>
+    </linearGradient>
+    <linearGradient id="stick" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFE08A"/>
+      <stop offset="100%" stop-color="#FFB347"/>
+    </linearGradient>
+  </defs>
+  <circle cx="64" cy="64" r="60" fill="url(#bg)"/>
+  <circle cx="64" cy="64" r="60" fill="#FFFFFF" fill-opacity="0.08"/>
+  <g transform="translate(64 52)">
+    <path d="M0 0 L0 -22 A22 22 0 0 1 19.05 -11 Z" fill="#FF5DA2"/>
+    <path d="M0 0 L19.05 -11 A22 22 0 0 1 19.05 11 Z" fill="#FFFFFF"/>
+    <path d="M0 0 L19.05 11 A22 22 0 0 1 0 22 Z" fill="#FF5DA2"/>
+    <path d="M0 0 L0 22 A22 22 0 0 1 -19.05 11 Z" fill="#FFFFFF"/>
+    <path d="M0 0 L-19.05 11 A22 22 0 0 1 -19.05 -11 Z" fill="#FF5DA2"/>
+    <path d="M0 0 L-19.05 -11 A22 22 0 0 1 0 -22 Z" fill="#FFFFFF"/>
+    <circle r="6" fill="#6340F5"/>
+  </g>
+  <rect x="59" y="76" width="10" height="30" rx="5" fill="url(#stick)"/>
+  <rect x="61" y="78" width="2" height="24" rx="1" fill="#FFFFFF" fill-opacity="0.35"/>
+  <circle cx="34" cy="34" r="3" fill="#00F0FE" opacity="0.85"/>
+  <circle cx="94" cy="38" r="2.5" fill="#FFD166" opacity="0.9"/>
+</svg>

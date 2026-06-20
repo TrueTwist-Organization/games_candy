@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "5d3ec2e3-b06f-45f7-922f-b36a0046f502",
+      "name": "Test User",
+      "email": "test@gamescandy.local",
+      "salt": "3d01e762c99c2ec4ed2aca6da565e48e",
+      "hash": "e025287b517b76127465caf6abb41b8fa343392594249f89492355a99a7b70a008b4fa40022955d816fb79f5e3764803d6ec0a93b9058e64dbd2c99b49044723",
+      "createdAt": "2026-06-20T05:34:04.943Z"
+    },
+    {
+      "id": "3c6b663b-b8c3-43bb-8b22-3ed5f11f1d05",
+      "name": "xyz",
+      "email": "xyz@gmail.com",
+      "salt": "73b65b985731a6afa3f4140893b49a00",
+      "hash": "5e720e4efde1388db6672bf710b1836a7f7427316d3cf43808145d9e0984b5d9535d5b7f417cda1d30936d67a5f1577057c3243a83d16c9e1396d58d8a232cd2",
+      "createdAt": "2026-06-20T05:48:18.595Z"
+    },
+    {
+      "id": "73c469d3-f279-43be-8c31-27fe8d7d1bd8",
+      "name": "User2",
+      "email": "user2@test.com",
+      "salt": "8a5cdee5c377fa90cf1e4693bb878ce9",
+      "hash": "5cf8d49e6449b4931fca45b6bd0626f48ae1931267718a52d1806de60cb11d5fde2dabf5cb5050826dbaa6ece1b17f2f1c5b0327d47f8d6efa0765dabfc57566",
+      "createdAt": "2026-06-20T05:54:20.532Z"
+    },
+    {
+      "id": "eb96da22-b33e-40e7-98d7-f0943c94fa75",
+      "name": "User3",
+      "email": "user3@test.com",
+      "salt": "fcfa5b53203a69c758c4e18bada77587",
+      "hash": "0fe39d7b4890b4f2949eb5ea6f32a0bb44608c81d56f26e4b3122da4bee6986dbad0e644fee550c07b03c084d7ccdc28765b00a3349578122e556df640c881bf",
+      "createdAt": "2026-06-20T05:55:11.049Z"
+    },
+    {
+      "id": "b68fd05f-1224-491c-947a-dd055709b251",
+      "name": "riddhi",
+      "email": "riddhi@gmail.com",
+      "salt": "c0dbe4571d5c9974b5e95272497ef2ef",
+      "hash": "2190b95dd133ac0f51a9fd1b4881ab2e254a20c4cc09d95edf96494bf8ca7e9a746291b1381a5bba73e00c8e1aa76de1c9b388007c76671d6ebb85706bbbaed2",
+      "createdAt": "2026-06-20T06:07:28.901Z"
+    }
+  ]
+}

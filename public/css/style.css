@@ -1,0 +1,595 @@
+.search {
+    position: relative;
+    margin-bottom: 0;
+}
+
+.search-icon {
+    position: absolute;
+    right: 5%;
+    top: 25%;
+    border: none;
+    cursor: pointer;
+    background-color: inherit;
+}
+
+img[src="/images/current-google-play-icon.webp"],
+img[src="/images/GetItOnGooglePlay_Badge_Web_color_English.png"],
+img[src*="GooglePlay"],
+img[alt="play-store"],
+img[alt="google play"] {
+    display: none !important;
+}
+
+a:has(> img[src*="GooglePlay"]),
+a:has(> img[src*="google-play"]) {
+    display: none !important;
+}
+
+#flash-message {
+    display: none !important;
+}
+
+
+.cookie-consent {
+    z-index: 10;
+    max-width: 700px;
+    margin: auto auto;
+    width:100%
+}
+
+.cookie-consent > div > div > div > div:first-child {
+    display: inline;
+    width: 100%;
+}
+
+.cookie-consent > div > div {
+    padding: 1rem;
+}
+
+.cookie-consent button.cookie-consent__agree {
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.cookie_consent_window{
+    background-color: #fff !important;
+}
+
+.cookie-consent__agree {
+    background-color: #6340F5 !important;
+    color: #fff !important;
+}
+
+/* Example: Customize the button hover color */
+.cookie-consent__agree:hover {
+    background-color: #6340F5; /* Change to your desired hover color */
+}
+
+.game-banner-container {
+    background-image: url('/images/section-bg.webp');
+}
+
+.footer-bg {
+    background-image: url('/images/footer-bg.webp');
+}
+
+.bg-game-portrait {
+    background-image: url('/images/bg-portrait.webp');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.bg-game-landscape {
+    background-image: url('/images/bg-landscape.webp');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.bg-game-4-3 {
+    background-image: url('/images/bg-4-3.webp');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+#loading {
+    opacity: 0.7;
+    background-color: white;
+}
+
+.main-container {
+    background-image: radial-gradient(circle 50vw at 100% 0, #00fefe, transparent), radial-gradient(circle 50vw at 20% 25vw, #9b00cc, transparent), linear-gradient(180deg, #3f007e, #502cba 25vw, #05122b 50vw);
+}
+
+@keyframes playBtnAnimation {
+    0% {
+        transform: scale(1.0);
+        -webkit-transform: scale(1.0);
+    }
+
+    25% {
+        transform: scale(1.05);
+        -webkit-transform: scale(1.05);
+    }
+
+    50% {
+        transform: scale(1.0);
+        -webkit-transform: scale(1.0);
+    }
+
+    75% {
+        transform: scale(1.05);
+        -webkit-transform: scale(1.05);
+    }
+
+    100% {
+        transform: scale(1.0);
+        -webkit-transform: scale(1.0);
+    }
+}
+
+.animatedPlayBtn:hover {
+    animation-name: playBtnAnimation;
+    animation-duration: 0.3s;
+}
+
+img[src="/images/logo.svg"],
+img[src="/images/logo_mobile.svg"],
+img[alt="GamesCandy Logo"] {
+    width: auto;
+    max-width: 220px;
+    object-fit: contain;
+}
+
+nav img[src="/images/logo.svg"],
+nav img[src="/images/logo_mobile.svg"] {
+    height: 58px;
+}
+
+footer img[src="/images/logo.svg"] {
+    height: 72px;
+    max-width: 240px;
+}
+
+/* 
+  Collapse space initially before ads load.
+  It will stay collapsed until AdSense explicitly sets data-ad-status="filled".
+*/
+ins.adsbygoogle:not([data-ad-status="filled"]) {
+    margin: 0 !important;
+    padding: 0 !important;
+    height: 0 !important;
+    overflow: hidden !important;
+}
+.my-5:has(ins.adsbygoogle:not([data-ad-status="filled"])),
+.bg-slate-200.h-\[50px\]:has(ins.adsbygoogle:not([data-ad-status="filled"])) {
+    margin: 0 !important;
+    padding: 0 !important;
+    height: 0 !important;
+    background-color: transparent !important;
+    overflow: hidden !important;
+}
+
+/* Hide ad wrappers completely if there is no ad tag at all (e.g. ads disabled) */
+.my-5:not(:has(:not(script))),
+.bg-slate-200.h-\[50px\]:not(:has(:not(script))) {
+    display: none !important;
+    margin: 0 !important;
+}
+
+/* 
+  Handle completely blocked ads (by AdBlocker).
+*/
+body.adblock-detected ins.adsbygoogle,
+body.adblock-detected .my-5:has(ins.adsbygoogle),
+body.adblock-detected .bg-slate-200.h-\[50px\]:has(ins.adsbygoogle) {
+    display: none !important;
+    margin: 0 !important;
+}
+
+/* 
+  Handle unfilled ads (AdSense loaded but couldn't serve an ad).
+*/
+ins.adsbygoogle[data-ad-status="unfilled"] {
+    display: none !important;
+}
+.my-5:has(ins.adsbygoogle[data-ad-status="unfilled"]),
+.bg-slate-200.h-\[50px\]:has(ins.adsbygoogle[data-ad-status="unfilled"]) {
+    display: none !important;
+}
+
+/* Local clone: hide ads only when site ads are disabled */
+body:not(.gc-ads-enabled) ins.adsbygoogle,
+body:not(.gc-ads-enabled) .ads-content,
+body:not(.gc-ads-enabled) #adBlockerDialog,
+body:not(.gc-ads-enabled) #game-ad-container-main,
+body:not(.gc-ads-enabled) .game-ad-container,
+body:not(.gc-ads-enabled) [data-ad-slot],
+body:not(.gc-ads-enabled) iframe[src*="googlesyndication"],
+body:not(.gc-ads-enabled) iframe[src*="doubleclick"],
+body:not(.gc-ads-enabled) iframe[src*="googleads"] {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    min-height: 0 !important;
+    max-height: 0 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow: hidden !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+}
+
+#game-content-main {
+    height: calc(100dvh - 40px) !important;
+    background: #000 !important;
+    overflow: hidden;
+}
+
+#game-content {
+    position: relative !important;
+    width: 100% !important;
+    height: 100% !important;
+    background: #000 !important;
+    overflow: hidden !important;
+}
+
+#game-content #unity-container,
+#game-content #unity-container.unity-desktop,
+#game-content #unity-container.unity-mobile {
+    position: absolute !important;
+    inset: 0 !important;
+    left: 0 !important;
+    top: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    transform: none !important;
+}
+
+#game-content #unity-canvas,
+#game-content .unity-mobile #unity-canvas {
+    width: 100% !important;
+    height: 100% !important;
+    display: block;
+    background: #000;
+}
+
+#game-content #unity-loading-bar {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+}
+
+body:not(.gc-ads-enabled) #game-content-main.hidden {
+    display: block !important;
+}
+
+/* Category/listing cards: hide placeholder spinner overlay */
+.group.relative img[alt="Loading..."] {
+    display: none !important;
+}
+
+/* Action/category grids: keep cards visible on mobile */
+@media (max-width: 767px) {
+    .game-banner-container .grid.grid-cols-2 > [class*="col-span-2"] {
+        grid-column: span 2 !important;
+    }
+}
+
+/* ========== Mobile responsive ========== */
+html {
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+@media (max-width: 1279px) {
+    nav > div.flex.flex-col {
+        gap: 0.5rem;
+    }
+
+    nav .gc-mobile-toggle {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 2.5rem;
+        height: 2.5rem;
+        margin-right: 0.5rem;
+        border: 1px solid #6340f5;
+        border-radius: 0.5rem;
+        background: #fff;
+        color: #6340f5;
+        font-size: 1.125rem;
+        cursor: pointer;
+        flex-shrink: 0;
+    }
+
+    nav .gc-nav-links {
+        display: none;
+        flex-direction: column;
+        align-items: stretch;
+        width: 100%;
+        gap: 0.35rem;
+        padding: 0.5rem 0;
+        white-space: normal;
+    }
+
+    nav.gc-nav-open .gc-nav-links {
+        display: flex;
+    }
+
+    nav .gc-nav-links > a,
+    nav .gc-nav-links > button {
+        text-align: center;
+        padding: 0.5rem;
+    }
+
+    nav .gc-nav-links .group.relative {
+        width: 100%;
+    }
+
+    nav .gc-nav-links .group.relative > button {
+        width: 100%;
+    }
+
+    nav .group.relative .absolute {
+        position: static !important;
+        visibility: visible !important;
+        display: none;
+        width: 100%;
+        box-shadow: none;
+        margin-top: 0.25rem;
+    }
+
+    nav .group.relative.gc-dropdown-open .absolute,
+    nav .group.relative:hover .absolute {
+        display: block;
+    }
+
+    nav .group.relative .absolute ul {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 0.25rem;
+    }
+
+    nav [class*="2xl:hidden"].flex.items-center {
+        flex: 0 0 auto;
+        min-width: 0;
+        justify-content: flex-end;
+        gap: 0.15rem;
+    }
+
+    nav [class*="2xl:hidden"].flex.items-center .p-2 {
+        padding: 0.35rem !important;
+    }
+
+    nav [class*="2xl:hidden"] .gc-user-slot,
+    nav [class*="2xl:hidden"] .w-8.h-8 {
+        width: 2.25rem !important;
+        height: 2.25rem !important;
+    }
+
+    nav .gc-mobile-search-toggle {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        width: 2.5rem;
+        height: 2.5rem;
+        margin-left: 0.15rem;
+        border: 1px solid #6340f5;
+        border-radius: 0.5rem;
+        background: #fff;
+        color: #6340f5;
+        font-size: 1rem;
+        cursor: pointer;
+        flex-shrink: 0;
+    }
+
+    nav .gc-mobile-search-panel {
+        width: 100%;
+        padding: 0 0.65rem 0.85rem;
+        box-sizing: border-box;
+    }
+
+    nav .gc-mobile-search-panel.hidden {
+        display: none !important;
+    }
+
+    nav.gc-search-open .gc-mobile-search-panel {
+        display: block !important;
+    }
+
+    nav .gc-mobile-search-form {
+        width: 100%;
+        max-width: none !important;
+        margin: 0 !important;
+    }
+
+    nav .gc-mobile-search-form input[name="search"] {
+        width: 100% !important;
+        min-width: 0;
+        font-size: 16px !important;
+        padding: 0.7rem 2.75rem 0.7rem 0.9rem !important;
+        border-radius: 0.65rem !important;
+    }
+
+    nav .gc-mobile-search-form .search-icon {
+        right: 0.65rem;
+        top: 50%;
+        transform: translateY(-50%);
+        padding: 0;
+        line-height: 0;
+    }
+
+    nav .gc-mobile-search-form .search-icon img {
+        width: 1.1rem;
+        height: 1.1rem;
+    }
+
+    nav form.search:not(.gc-mobile-search-form) {
+        display: none;
+    }
+
+    nav form.search {
+        flex: 1;
+        min-width: 0;
+        max-width: 12rem;
+    }
+
+    nav form.search input {
+        padding: 0.5rem 2rem 0.5rem 0.75rem !important;
+        font-size: 0.875rem !important;
+    }
+
+    nav img.h-\[60px\],
+    nav img.h-\[55px\] {
+        height: 2.75rem !important;
+        max-width: 140px;
+    }
+}
+
+@media (min-width: 1280px) {
+    nav .gc-mobile-toggle {
+        display: none;
+    }
+}
+
+@media (max-width: 767px) {
+    .md\:w-\[80\%\],
+    .lg\:w-\[64\%\] {
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+
+    .grid.grid-cols-4 {
+        grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    }
+
+    .grid.grid-cols-4 > .col-span-2,
+    .grid.grid-cols-4 > [class*="col-span-2"] {
+        grid-column: span 1 !important;
+    }
+
+    .grid.grid-cols-9 {
+        grid-template-columns: repeat(3, minmax(0, 1fr)) !important;
+    }
+
+    .grid.grid-cols-9 > [class*="col-span"] {
+        grid-column: span 1 !important;
+    }
+
+    .game-banner-container.py-\[3rem\],
+    .py-\[3rem\].px-\[4rem\],
+    .game-banner-container.px-\[4rem\] {
+        padding-top: 1.5rem !important;
+        padding-bottom: 1.5rem !important;
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
+    }
+
+    .w-96 {
+        width: 100% !important;
+        max-width: 24rem;
+    }
+
+    h3.text-\[24px\] {
+        font-size: 1.125rem !important;
+        line-height: 1.4 !important;
+    }
+
+    .my-5 .p-8,
+    .game-banner-container.p-8 {
+        padding: 1rem !important;
+    }
+
+    footer .justify-between {
+        flex-direction: column;
+        align-items: center;
+        gap: 0.75rem;
+        text-align: center;
+    }
+
+    footer .lg\:w-60 {
+        width: 100% !important;
+        text-align: center !important;
+    }
+
+    footer .lg\:block.hidden {
+        display: block !important;
+    }
+
+    footer img[src="/images/GetItOnGooglePlay_Badge_Web_color_English.png"],
+    img[src="/images/current-google-play-icon.webp"],
+    img[src*="GooglePlay"],
+    img[alt="play-store"],
+    img[alt="google play"] {
+        display: none !important;
+    }
+
+    a:has(> img[src*="GooglePlay"]),
+    a:has(> img[src*="google-play"]) {
+        display: none !important;
+    }
+
+    #flash-success,
+    #flash-error {
+        width: calc(100% - 2rem) !important;
+        max-width: none !important;
+        left: 1rem !important;
+        right: 1rem !important;
+        margin: 1rem !important;
+    }
+
+    .swiper-container .prev,
+    .swiper-container .next {
+        width: 2rem;
+        height: 2rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: rgba(255, 255, 255, 0.85);
+        border-radius: 9999px;
+    }
+
+    .contact-us-form,
+    .min-h-\[80vh\].px-\[4rem\] {
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
+    }
+
+    .main-container .px-4 {
+        padding-left: 0.75rem;
+        padding-right: 0.75rem;
+    }
+
+    .aspect-\[9\/16\] .h-\[100px\].w-\[100px\] {
+        height: 3rem !important;
+        width: 3rem !important;
+        margin-top: -1.5rem !important;
+        margin-left: -1.5rem !important;
+    }
+
+    .game-play-page .md\:w-\[700px\] {
+        width: 100% !important;
+    }
+
+    nav .whitespace-nowrap {
+        white-space: normal;
+    }
+}
+
+@media (max-width: 639px) {
+    .index-mobile-only {
+        display: none !important;
+    }
+
+    .index-main-content {
+        display: block !important;
+    }
+}

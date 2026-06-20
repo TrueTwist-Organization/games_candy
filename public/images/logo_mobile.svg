@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 64" fill="none" role="img" aria-label="GamesCandy">
+  <defs>
+    <linearGradient id="gcm-purple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#6340F5"/>
+    </linearGradient>
+    <linearGradient id="gcm-pink" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF5DA2"/>
+      <stop offset="100%" stop-color="#DF0F64"/>
+    </linearGradient>
+    <linearGradient id="gcm-stick" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFE08A"/>
+      <stop offset="100%" stop-color="#FFB347"/>
+    </linearGradient>
+    <filter id="gcm-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2.5" flood-color="#6340F5" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#gcm-shadow)">
+    <circle cx="32" cy="32" r="26" fill="url(#gcm-purple)"/>
+    <circle cx="32" cy="32" r="26" fill="#FFFFFF" fill-opacity="0.08"/>
+  </g>
+
+  <g transform="translate(32 24)">
+    <path d="M0 0 L0 -13 A13 13 0 0 1 11.26 -6.5 Z" fill="#FF5DA2"/>
+    <path d="M0 0 L11.26 -6.5 A13 13 0 0 1 11.26 6.5 Z" fill="#FFFFFF"/>
+    <path d="M0 0 L11.26 6.5 A13 13 0 0 1 0 13 Z" fill="#FF5DA2"/>
+    <path d="M0 0 L0 13 A13 13 0 0 1 -11.26 6.5 Z" fill="#FFFFFF"/>
+    <path d="M0 0 L-11.26 6.5 A13 13 0 0 1 -11.26 -6.5 Z" fill="#FF5DA2"/>
+    <path d="M0 0 L-11.26 -6.5 A13 13 0 0 1 0 -13 Z" fill="#FFFFFF"/>
+    <circle r="3.8" fill="#6340F5"/>
+  </g>
+  <rect x="29.5" y="37" width="5" height="13" rx="2.5" fill="url(#gcm-stick)"/>
+  <rect x="30.5" y="39" width="1.2" height="9" rx="0.6" fill="#FFFFFF" fill-opacity="0.35"/>
+
+  <text x="68" y="28" font-family="Poppins, Arial, sans-serif" font-size="9" font-weight="700" fill="#6340F5" letter-spacing="1.8" opacity="0.85">SWEET GAMES</text>
+  <text x="66" y="50" font-family="Poppins, Arial, sans-serif" font-size="24" font-weight="800" fill="url(#gcm-purple)">Games</text>
+  <text x="148" y="50" font-family="Poppins, Arial, sans-serif" font-size="24" font-weight="800" fill="url(#gcm-pink)">Candy</text>
+</svg>

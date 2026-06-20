@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 72" fill="none" role="img" aria-label="GamesCandy">
+  <defs>
+    <linearGradient id="gc-purple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#6340F5"/>
+    </linearGradient>
+    <linearGradient id="gc-pink" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF5DA2"/>
+      <stop offset="100%" stop-color="#DF0F64"/>
+    </linearGradient>
+    <linearGradient id="gc-stick" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFE08A"/>
+      <stop offset="100%" stop-color="#FFB347"/>
+    </linearGradient>
+    <filter id="gc-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="3" stdDeviation="3" flood-color="#6340F5" flood-opacity="0.35"/>
+    </filter>
+    <filter id="gc-text-shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="1.5" stdDeviation="1" flood-color="#DF0F64" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#gc-shadow)">
+    <circle cx="36" cy="36" r="30" fill="url(#gc-purple)"/>
+    <circle cx="36" cy="36" r="30" fill="#FFFFFF" fill-opacity="0.08"/>
+  </g>
+
+  <g transform="translate(36 27)">
+    <path d="M0 0 L0 -16 A16 16 0 0 1 13.86 -8 Z" fill="#FF5DA2"/>
+    <path d="M0 0 L13.86 -8 A16 16 0 0 1 13.86 8 Z" fill="#FFFFFF"/>
+    <path d="M0 0 L13.86 8 A16 16 0 0 1 0 16 Z" fill="#FF5DA2"/>
+    <path d="M0 0 L0 16 A16 16 0 0 1 -13.86 8 Z" fill="#FFFFFF"/>
+    <path d="M0 0 L-13.86 8 A16 16 0 0 1 -13.86 -8 Z" fill="#FF5DA2"/>
+    <path d="M0 0 L-13.86 -8 A16 16 0 0 1 0 -16 Z" fill="#FFFFFF"/>
+    <circle r="4.5" fill="#6340F5"/>
+  </g>
+  <rect x="33" y="43" width="6" height="16" rx="3" fill="url(#gc-stick)"/>
+  <rect x="34.2" y="45" width="1.4" height="12" rx="0.7" fill="#FFFFFF" fill-opacity="0.35"/>
+  <circle cx="14" cy="18" r="2.2" fill="#00F0FE" opacity="0.85"/>
+  <circle cx="58" cy="22" r="1.8" fill="#FFD166" opacity="0.9"/>
+
+  <g filter="url(#gc-text-shadow)">
+    <text x="82" y="34" font-family="Poppins, Arial, sans-serif" font-size="11" font-weight="700" fill="#6340F5" letter-spacing="2.4" opacity="0.85">SWEET FREE GAMES</text>
+    <text x="80" y="58" font-family="Poppins, Arial, sans-serif" font-size="30" font-weight="800" fill="url(#gc-purple)">Games</text>
+    <text x="188" y="58" font-family="Poppins, Arial, sans-serif" font-size="30" font-weight="800" fill="url(#gc-pink)">Candy</text>
+  </g>
+  <path d="M292 18 L293.5 21.5 L297 23 L293.5 24.5 L292 28 L290.5 24.5 L287 23 L290.5 21.5 Z" fill="#FFD166" opacity="0.9"/>
+</svg>

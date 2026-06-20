@@ -1,0 +1,174 @@
+{
+  "ads": {
+    "gam_network": "/23355254298/",
+    "refresh_sec": "35",
+    "amazon_pub_id": "",
+    "prebid_timeout": "1500",
+    "placements": {
+      "bottom_anchor": {
+        "enabled": true,
+        "code": "aa1"
+      },
+      "home_hero_mpu": {
+        "enabled": true,
+        "code": "aa2"
+      },
+      "home_mpu_1": {
+        "enabled": true,
+        "code": "aa3"
+      },
+      "list_top": {
+        "enabled": true,
+        "code": "aa4"
+      },
+      "game_preroll": {
+        "enabled": true,
+        "code": "aa5"
+      },
+      "game_mpu_right": {
+        "enabled": true,
+        "code": "aa6"
+      },
+      "web_interstitial": {
+        "enabled": true,
+        "code": "bb1"
+      },
+      "home_top_banner": {
+        "enabled": true,
+        "code": "bb2"
+      },
+      "home_mpu_2": {
+        "enabled": true,
+        "code": "bb3"
+      },
+      "list_mid": {
+        "enabled": true,
+        "code": "bb4"
+      },
+      "game_mpu_left": {
+        "enabled": true,
+        "code": "bb5"
+      },
+      "game_preplay": {
+        "enabled": true,
+        "code": "bb6"
+      }
+    },
+    "prebid_bids": "{\"f3\":[{\"bidder\":\"appnexus\",\"params\":{\"placementId\":\"123\"}}]}",
+    "ads_txt": "# ads.txt - GamesCandy games network\ngoogle.com, pub-7348172902389178, DIRECT, f08c47fec0942fa0\n"
+  },
+  "site": {
+    "site_name": "GamesCandy",
+    "site_url": "http://localhost:3000",
+    "tagline": "Play free online games instantly",
+    "meta_title": "Play online games for Free | GamesCandy",
+    "meta_description": "Play free online games at GamesCandy. No downloads required.",
+    "meta_keywords": "games, free games, online games, html5 games",
+    "primary_color": "linear-gradient(135deg, #6340F5, #DF0F64)",
+    "secondary_color": "#DF0F64",
+    "accent_color": "linear-gradient(135deg, #8B5CF6, #DF0F64)",
+    "button_color": "linear-gradient(to right, #6340F5, #8B5CF6)",
+    "button_hover_color": "#5230D5",
+    "link_color": "#6340F5",
+    "background_color": "#FFFFFF",
+    "text_color": "#1F1147",
+    "theme_color": "#6340F5",
+    "logo_desktop": "/images/logo.svg",
+    "logo_mobile": "/images/logo_mobile.svg",
+    "favicon": "/favicon.ico",
+    "home_hero_title": "Most Popular",
+    "footer_text": "© GamesCandy. All rights reserved.",
+    "copyright_year": "2026",
+    "footer_credit_links": [
+      {
+        "label": "Designed By :TrueTwist",
+        "url": "https://truetwist.in/"
+      },
+      {
+        "label": "Marketing By :369Network",
+        "url": "https://369network.com/"
+      }
+    ],
+    "show_tournaments": true,
+    "enable_ads": false,
+    "homepage_most_popular": true,
+    "homepage_categories": true,
+    "homepage_recent": true
+  },
+  "nav": {
+    "items": [
+      {
+        "label": "Home",
+        "url": "/home",
+        "enabled": true
+      },
+      {
+        "label": "All Games",
+        "url": "/games",
+        "enabled": true
+      },
+      {
+        "label": "Tournaments",
+        "url": "/tournaments",
+        "enabled": true
+      },
+      {
+        "label": "Action",
+        "url": "/category/Action",
+        "enabled": true
+      },
+      {
+        "label": "Arcade",
+        "url": "/category/Arcade",
+        "enabled": true
+      },
+      {
+        "label": "Casual",
+        "url": "/category/Casual",
+        "enabled": true
+      },
+      {
+        "label": "Puzzle",
+        "url": "/category/Puzzle",
+        "enabled": true
+      },
+      {
+        "label": "Sports",
+        "url": "/category/Sports",
+        "enabled": true
+      },
+      {
+        "label": "Quiz",
+        "url": "/category/Quiz",
+        "enabled": true
+      },
+      {
+        "label": "Board",
+        "url": "/category/Board",
+        "enabled": true
+      },
+      {
+        "label": "Match 3",
+        "url": "/category/Match 3",
+        "enabled": true
+      },
+      {
+        "label": "Card",
+        "url": "/category/Card",
+        "enabled": true
+      }
+    ]
+  },
+  "code": {
+    "head_code": "",
+    "body_code": "",
+    "footer_code": "",
+    "custom_css": ""
+  },
+  "analytics": {
+    "tracking_code": "",
+    "ga4_id": "",
+    "google_ads_id": ""
+  },
+  "published_at": "2026-06-20T11:10:13.531Z"
+}

@@ -1,0 +1,16 @@
+{
+  "base": "http://localhost:3000",
+  "games_total": 211,
+  "games_ok": 211,
+  "embed_http_fail": [],
+  "missing_local_embed": [],
+  "quiz_missing_json": [],
+  "game_pages_with_ads": [],
+  "game_pages_external_play": [],
+  "sample_play_pages_ok": [
+    "Cat_Block_Puzzle FAIL (200)",
+    "Rotate_Cups FAIL (200)",
+    "Car_Escape FAIL (200)",
+    "Cricket-Quiz FAIL (200)"
+  ]
+}

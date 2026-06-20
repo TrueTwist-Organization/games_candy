@@ -1,0 +1,1 @@
+/* Ads disabled for local clone */

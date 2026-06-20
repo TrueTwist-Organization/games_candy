@@ -1,0 +1,260 @@
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body.gc-admin-body {
+  overflow-x: hidden;
+}
+
+.gc-admin-header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: #fff;
+}
+
+.gc-admin-menu-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border: 1px solid #cbd5e1;
+  border-radius: 0.5rem;
+  background: #fff;
+  color: #334155;
+  flex-shrink: 0;
+}
+
+.gc-admin-desktop-nav {
+  display: none;
+}
+
+.gc-admin-mobile-nav {
+  display: none;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding-bottom: 0.75rem;
+  border-top: 1px solid #f1f5f9;
+  margin-top: 0.25rem;
+  padding-top: 0.75rem;
+}
+
+.gc-admin-mobile-nav.gc-admin-nav-open {
+  display: flex;
+}
+
+.gc-admin-mobile-nav a,
+.gc-admin-mobile-actions a,
+.gc-admin-mobile-actions button {
+  display: block;
+  width: 100%;
+  text-align: left;
+  border-radius: 0.5rem;
+  padding: 0.65rem 0.75rem;
+}
+
+.gc-admin-mobile-nav a {
+  color: #475569;
+  font-weight: 500;
+}
+
+.gc-admin-mobile-nav a.gc-admin-nav-active {
+  background: #eef2ff;
+  color: #312e81;
+  font-weight: 600;
+}
+
+.gc-admin-mobile-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  margin-top: 0.35rem;
+  padding-top: 0.35rem;
+  border-top: 1px solid #f1f5f9;
+}
+
+.gc-admin-main {
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+}
+
+.gc-admin-table-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.gc-admin-table-wrap table {
+  min-width: 640px;
+}
+
+@media (max-width: 639px) {
+  .gc-admin-login-wrap {
+    margin-top: 2rem !important;
+    padding: 1.25rem !important;
+    margin-left: 0.75rem;
+    margin-right: 0.75rem;
+  }
+
+  .gc-admin-main {
+    padding-left: 0.65rem;
+    padding-right: 0.65rem;
+    padding-top: 0.85rem;
+    padding-bottom: 1.25rem;
+  }
+
+  .gc-admin-card {
+    padding: 1rem !important;
+  }
+
+  .gc-admin-card h2 {
+    font-size: 1rem !important;
+  }
+
+  .gc-admin-header .max-w-\[1400px\] {
+    padding-left: 0.65rem;
+    padding-right: 0.65rem;
+  }
+
+  .gc-admin-toolbar-form {
+    flex-direction: column;
+    align-items: stretch !important;
+  }
+
+  .gc-admin-toolbar-form button,
+  .gc-admin-toolbar-form a.gc-admin-btn {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .gc-admin-toolbar-extra {
+    width: 100%;
+  }
+
+  .gc-admin-toolbar-extra button {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .gc-admin-form-actions button,
+  .gc-admin-form-actions a {
+    width: 100%;
+  }
+
+  .gc-admin-backup-actions {
+    flex-direction: column;
+  }
+
+  .gc-admin-backup-actions a {
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .gc-admin-analytics-form {
+    flex-direction: column;
+    align-items: stretch !important;
+  }
+
+  .gc-admin-analytics-form input {
+    min-width: 0 !important;
+    width: 100%;
+  }
+
+  .gc-admin-analytics-form button {
+    width: 100%;
+  }
+
+  .gc-admin-placement-row {
+    flex-wrap: wrap;
+    align-items: flex-start !important;
+  }
+
+  .gc-admin-placement-row input[type="text"] {
+    width: 4rem !important;
+  }
+
+  .gc-admin-footer-credit-row {
+    flex-direction: column !important;
+  }
+
+  .gc-admin-footer-credit-row input.w-1\/3 {
+    width: 100% !important;
+  }
+
+  input[type="text"],
+  input[type="password"],
+  input[type="search"],
+  input[type="email"],
+  input[type="url"],
+  input[type="number"],
+  select,
+  textarea {
+    font-size: 16px !important;
+  }
+
+  .gc-admin-inline-actions {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.35rem;
+    white-space: normal !important;
+  }
+
+  .gc-admin-inline-actions form {
+    display: block;
+  }
+
+  .gc-admin-card dl > div {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .gc-admin-card dl dd {
+    text-align: left !important;
+  }
+
+  .gc-admin-card form .flex.gap-2 {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .gc-admin-card form .flex.gap-2 button {
+    width: 100%;
+  }
+}
+
+@media (min-width: 640px) {
+  .gc-admin-main {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .gc-admin-menu-btn {
+    display: none;
+  }
+
+  .gc-admin-desktop-nav {
+    display: flex;
+  }
+
+  .gc-admin-mobile-nav {
+    display: none !important;
+  }
+
+  .gc-admin-mobile-quick {
+    display: none;
+  }
+}
+
+@media (max-width: 1023px) {
+  .gc-admin-desktop-nav {
+    display: none !important;
+  }
+
+  .gc-admin-desktop-actions {
+    display: none !important;
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "games-candy",
+  "version": "2.0.0",
+  "description": "GamesCandy gaming site (PHP for Hostinger)",
+  "main": "index.php",
+  "scripts": {
+    "mirror": "python3 scripts/mirror.py && python3 scripts/remove-ads.py && python3 scripts/rebrand.py && python3 scripts/fix-games.py && python3 scripts/polish-site.py && python3 scripts/mobile-responsive.py && python3 scripts/download-games.py && python3 scripts/fix-embed-paths.py && python3 scripts/fix-game-urls.py",
+    "sync:games": "python3 scripts/sync-missing-games.py && python3 scripts/fix-embed-paths.py && python3 scripts/fix-game-urls.py",
+    "start": "php -S localhost:8080 router.php",
+    "start:node": "node server.js",
+    "dev": "php -S localhost:8080 router.php",
+    "deploy:hostinger": "php scripts/prepare-hostinger.php",
+    "download:games": "python3 scripts/download-games.py"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "multer": "^2.2.0"
+  }
+}

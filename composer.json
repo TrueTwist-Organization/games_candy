@@ -1,0 +1,8 @@
+{
+  "name": "gamescandy/site",
+  "description": "GamesCandy PHP gaming site for Hostinger",
+  "require": {
+    "php": ">=8.0",
+    "ext-curl": "*"
+  }
+}
