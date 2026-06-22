@@ -1,0 +1,1002 @@
+[
+  {
+    "Sq": 1,
+    "Category": "None",
+    "Question": "Which Bollywood star is married to Nick Jonas?",
+    "Option1": "Priyanka Chopra",
+    "Option2": "Deepika Padukone",
+    "Option3": "Zoya Akhtar",
+    "Option4": "Kareena Kapoor",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 2,
+    "Category": "None",
+    "Question": "I am known as the King of Romance... Who am I?",
+    "Option1": "Akshay kumar",
+    "Option2": "Salman khan",
+    "Option3": "Shah Rukh Khan",
+    "Option4": "Amir khan",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 3,
+    "Category": "None",
+    "Question": "Who plays the female lead in the movie Chandni Chowk to China?",
+    "Option1": "Priyanka Chopra",
+    "Option2": "Zoya Akhtar",
+    "Option3": "Kareena Kapoor",
+    "Option4": "Deepika Padukone",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 4,
+    "Category": "None",
+    "Question": "There is a guest singer in the song \"Papa Ki Pari\". Who is it?",
+    "Option1": "Alia bhatt",
+    "Option2": "Kareena Kapoor",
+    "Option3": "Janvi Kapoor",
+    "Option4": "Priyanka Chopra",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 5,
+    "Category": "None",
+    "Question": "Name Aamir Khan's character in the Oscar-nominated movie Lagaan.",
+    "Option1": "Pream",
+    "Option2": "Raju",
+    "Option3": "Bhuvan",
+    "Option4": "None",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 6,
+    "Category": "None",
+    "Question": "What's the average length of a Bollywood film?",
+    "Option1": "3.5 Hours",
+    "Option2": "4 Hours",
+    "Option3": "2.5 Hours",
+    "Option4": "2 Hours",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 7,
+    "Category": "None",
+    "Question": "Jhanvi Kapoor is the daughter of which veteran Actress?",
+    "Option1": "Jaya Bachan",
+    "Option2": "Shridevi",
+    "Option3": "Susmita sen",
+    "Option4": "Kajol",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 8,
+    "Category": "None",
+    "Question": "What was the name of Amir Khan's Daughter in the movie Dangal?",
+    "Option1": "Geeta and Babita",
+    "Option2": "sita and gita",
+    "Option3": "Sita and babita",
+    "Option4": "Gita and Radha",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 9,
+    "Category": "None",
+    "Question": "Which Bollywood celebrity is the brand ambassador for the Chinese smartphone firm Tecno?",
+    "Option1": "Amitabh Bachan",
+    "Option2": "Shah Rukh Khan",
+    "Option3": "Ayushmann Khurana",
+    "Option4": "Vidyut Jamwal",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 10,
+    "Category": "None",
+    "Question": "Which Bollywood star is married to Ranveer Kapoor?",
+    "Option1": "Deepika Padukon",
+    "Option2": "Alia bhatt",
+    "Option3": "Kareena Kapoor",
+    "Option4": "Priyanka Chopra",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 11,
+    "Category": "None",
+    "Question": "Which is the most expensive film ever made in Bollywood till 2023?",
+    "Option1": "JAWAN",
+    "Option2": "Spider man",
+    "Option3": "RRR",
+    "Option4": "Satay perem ki katha",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 12,
+    "Category": "None",
+    "Question": "What is Hrithik Roshan's actual surname?",
+    "Option1": "Nagrath",
+    "Option2": "Kumar",
+    "Option3": "Chopda",
+    "Option4": "None",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 13,
+    "Category": "None",
+    "Question": "Who plays the female lead in the movie 'Fashion'?",
+    "Option1": "Kareena Kapoor",
+    "Option2": "Priyanka Chopra",
+    "Option3": "Alia bhatt",
+    "Option4": "Deepika Padukone",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 14,
+    "Category": "None",
+    "Question": "Which Bollywood movie is an official remake of the Korean film, Ode To My Father?",
+    "Option1": "Jawan",
+    "Option2": "Gujju",
+    "Option3": "Indian",
+    "Option4": "Bharat",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 15,
+    "Category": "None",
+    "Question": "In which year did Amitabh Bachchan debut in Hindi cinema?",
+    "Option1": 1978,
+    "Option2": 1971,
+    "Option3": 1972,
+    "Option4": 1977,
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 16,
+    "Category": "None",
+    "Question": "Who was the director of the 3 Idiots movie?",
+    "Option1": "Amir khan",
+    "Option2": "Rajkumar Hirani",
+    "Option3": "Gauri khan",
+    "Option4": "Arjun Rajpal",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 17,
+    "Category": "None",
+    "Question": "Who was the director of the film 'Gully Boy'?",
+    "Option1": "Rajkumar Hirani",
+    "Option2": "Gauri khan",
+    "Option3": "Arjun Rajpal",
+    "Option4": "Zoya Akhtar",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 18,
+    "Category": "None",
+    "Question": "Which city Actor Sushant Singh Rajput was born?",
+    "Option1": "Mumbai",
+    "Option2": "Delhi",
+    "Option3": "Patna",
+    "Option4": "Gujarat",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 19,
+    "Category": "None",
+    "Question": "How many songs did Kishore Kumar sing in his life?",
+    "Option1": 2000,
+    "Option2": 2678,
+    "Option3": 3000,
+    "Option4": 2500,
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 20,
+    "Category": "None",
+    "Question": "Who was known as the King of Bollywood Music?",
+    "Option1": "Kishore Kumar",
+    "Option2": "Sachin Dev Burman",
+    "Option3": "Rahul Dev Burman",
+    "Option4": "Muhammad Rafi",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 21,
+    "Category": "None",
+    "Question": "Which Bollywood actor was recently named in the WEF's Young Global Leaders (YGLs) list?",
+    "Option1": "Priyanka Chopra",
+    "Option2": "Deepika Padukone",
+    "Option3": "Vidya Balan",
+    "Option4": "Nawazuddin Siddique",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 22,
+    "Category": "None",
+    "Question": "Which Bollywood film was the first to reach 100 crores in box office collection?",
+    "Option1": "Dilwale",
+    "Option2": "Hum Sath sath hai",
+    "Option3": "Chalte Chalte",
+    "Option4": "Hum Aapke Hain Kaun",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 23,
+    "Category": "None",
+    "Question": "Who was the first actress to play a double role in Bollywood?",
+    "Option1": "Saroja Devi",
+    "Option2": "Shree devi",
+    "Option3": "Kareena kapooir",
+    "Option4": "Deepika Padukon",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 24,
+    "Category": "None",
+    "Question": "Which was the first Bollywood film to gross over 200 crores?",
+    "Option1": "3 Idiots",
+    "Option2": "3 Ekka",
+    "Option3": "Yeh jawani hai diwani",
+    "Option4": "Gadar 2",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 25,
+    "Category": "None",
+    "Question": "What was the Release date of the Movie \"Hum Aapke Hain Koun\"?",
+    "Option1": 1994,
+    "Option2": 1997,
+    "Option3": 1998,
+    "Option4": 1995,
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 26,
+    "Category": "None",
+    "Question": "At what age, did legendary actor Kishore Kumar die?",
+    "Option1": 59,
+    "Option2": 72,
+    "Option3": 67,
+    "Option4": 58,
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 27,
+    "Category": "None",
+    "Question": "Which was the First Indian Movie released commercially in Italy?",
+    "Option1": "Ankhen",
+    "Option2": "Mother India",
+    "Option3": "Dil bechara",
+    "Option4": "Slumdog millionare",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 28,
+    "Category": "None",
+    "Question": "Who was the first Indian to win an Oscar?",
+    "Option1": "Rajesh Khanna",
+    "Option2": "A R Rahman",
+    "Option3": "Bhanu Athaiya",
+    "Option4": "Akshay Kumar",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 29,
+    "Category": "None",
+    "Question": "Actress Preity Zinta made her debut in Which movie?",
+    "Option1": "Dil Se",
+    "Option2": "Koi mil gaya",
+    "Option3": "Krish",
+    "Option4": "Dosti",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 30,
+    "Category": "None",
+    "Question": "Who played the role of Birju in the 1957 film \" Mother India \"?",
+    "Option1": "Manoj Kumar",
+    "Option2": "Sunil Dutt",
+    "Option3": "Rajkumar",
+    "Option4": "Jitendra",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 31,
+    "Category": "None",
+    "Question": "Which Following Ambris Puri Film Features the Iconic Dialogue Mogambo Khush Hua?",
+    "Option1": "Mr. India",
+    "Option2": "Damini",
+    "Option3": "Diljale",
+    "Option4": "Badshah",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 32,
+    "Category": "None",
+    "Question": "Which Following Actress debuted opposite Shahrukh Khan in the movie \"Om Shanti Om\"?",
+    "Option1": "Sonam Kapoor",
+    "Option2": "Anushka Sharma",
+    "Option3": "Deepika Padukone",
+    "Option4": "Priyanka Chopra",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 33,
+    "Category": "None",
+    "Question": "Who became the first Indian Director to shoot at NASA?",
+    "Option1": "AK Hangal",
+    "Option2": "Arjun Sarja",
+    "Option3": "Ashutosh Gawarikar",
+    "Option4": "Karan Johar",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 34,
+    "Category": "None",
+    "Question": "Which Shah Rukh Film has the tagline 'Ready Steady Po'?",
+    "Option1": "Dil Toh Pagal Hai",
+    "Option2": "Jab Tak Hai Jaan",
+    "Option3": "Chennai Express",
+    "Option4": "Khiladi 786",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 35,
+    "Category": "None",
+    "Question": "What is the Name of Nana Patekar's character in WELCOME?",
+    "Option1": "Majnu Shetty",
+    "Option2": "Nana Das",
+    "Option3": "Uday Shetty",
+    "Option4": "Santa Singh",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 36,
+    "Category": "None",
+    "Question": "Which was the following profession of Anushka Sharma in Jab Tak Hai Jaan?",
+    "Option1": "Filmmaker",
+    "Option2": "Dancer",
+    "Option3": "Teacher",
+    "Option4": "Doctor",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 37,
+    "Category": "None",
+    "Question": "What is the Role of SRK in Chak De! India?",
+    "Option1": "Refree",
+    "Option2": "Coach",
+    "Option3": "Player",
+    "Option4": "Captain",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 38,
+    "Category": "None",
+    "Question": "Which is the Following Debut film of Rajkumar Rao?",
+    "Option1": "kai Po Che!",
+    "Option2": "Love Sex Aur Dhokha",
+    "Option3": "Shahid",
+    "Option4": "Citylights",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 39,
+    "Category": "None",
+    "Question": "Which of the following natural calamities is Shown in the Film Kedarnath?",
+    "Option1": "Earthquake",
+    "Option2": "Cyclone",
+    "Option3": "Flood",
+    "Option4": "Landsliding",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 40,
+    "Category": "None",
+    "Question": "In the film Kahaani, during which festival does Vidya Balan arrive in Kolkata?",
+    "Option1": "Durga pujan",
+    "Option2": "Ganesh Visarjan",
+    "Option3": "Holi",
+    "Option4": "Diwali",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 41,
+    "Category": "None",
+    "Question": "In which of the following films Nawazuddin Siddiqui play the role of a news reporter?",
+    "Option1": "Bombay Talkies",
+    "Option2": "Manto",
+    "Option3": "Bajrangi Bhaijan",
+    "Option4": "Ghoomketu",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 42,
+    "Category": "None",
+    "Question": "In film \"zindagi na milengi dobara\", where did Three Friends Meet?",
+    "Option1": "America",
+    "Option2": "Mumbai",
+    "Option3": "Spain",
+    "Option4": "Italy",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 43,
+    "Category": "None",
+    "Question": "In how many movies \"Munna- Circuit Jodi\" appear together?",
+    "Option1": 4,
+    "Option2": 1,
+    "Option3": 3,
+    "Option4": 2,
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 44,
+    "Category": "None",
+    "Question": "Rahul & Anjali is a famous friendship Jodi belongs to which movie?",
+    "Option1": "hum Aapke Hain Kaun",
+    "Option2": "Baazigar",
+    "Option3": "Kuch Kuch Hota Hai",
+    "Option4": "Deewana",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 45,
+    "Category": "None",
+    "Question": "Which was India's First Sound movie?",
+    "Option1": "Alam Ara",
+    "Option2": "Raja Harishchandra",
+    "Option3": "Sholey",
+    "Option4": "Dosti",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 46,
+    "Category": "None",
+    "Question": "Actor Vidyut Jammwal is Famous for his...?",
+    "Option1": "height",
+    "Option2": "Romantic role",
+    "Option3": "Social media interaction",
+    "Option4": "Live Stunt.",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 47,
+    "Category": "None",
+    "Question": "Where does Veeru proposed to bansanti in Sholay movie?",
+    "Option1": "From top of water tank.",
+    "Option2": "In garden",
+    "Option3": "In hill station",
+    "Option4": "In railway station",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 48,
+    "Category": "None",
+    "Question": "What was the name of Amitabh Bachchan in the movie Mohabbatein?",
+    "Option1": "Bhanu Pratabh",
+    "Option2": "Hira Thakur",
+    "Option3": "Narayan Shankar",
+    "Option4": "Shankar Narayan",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 49,
+    "Category": "None",
+    "Question": "What is the name of Anushka & Ranveer's venture in the movie Band Baja Baaraat?",
+    "Option1": "Wedding Mubarak",
+    "Option2": "Rishta Mubarak",
+    "Option3": "Shadi Mubarak",
+    "Option4": "Vivah Mubarak",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 50,
+    "Category": "None",
+    "Question": "Angrezi Beat te is a famous song line of which film?",
+    "Option1": "Cocktail",
+    "Option2": "Badmash Company",
+    "Option3": "Udta Punjab",
+    "Option4": "Tamasha",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 51,
+    "Category": "None",
+    "Question": "What was the Name of Shahrukh Khan in the Movie \"Kal Ho Na Ho\"?",
+    "Option1": "Ram",
+    "Option2": "Rahul",
+    "Option3": "Aman",
+    "Option4": "Karan",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 52,
+    "Category": "None",
+    "Question": "What is the name of Saif Ali Khan's character in the \"Tanhaji\"?",
+    "Option1": "Uday Singh Rathod",
+    "Option2": "Udaybhan Singh Rathod",
+    "Option3": "Udaykhan Singh Rathod",
+    "Option4": "Uday Rathod Singh",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 53,
+    "Category": "None",
+    "Question": "Which was Ranbir Kapoor's first film with Deepika Padukone?",
+    "Option1": "Wake Up seat",
+    "Option2": "Bachna Ae Haseeno",
+    "Option3": "Ye Jawaani hai Deewani",
+    "Option4": "Tamasha",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 54,
+    "Category": "None",
+    "Question": "In which movie famous negative role of Chief Minister played by Amris Puri?",
+    "Option1": "Dil Wale Dulhaniya Le Jaege",
+    "Option2": "Mr. India",
+    "Option3": "Gadar",
+    "Option4": "Nayak",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 55,
+    "Category": "None",
+    "Question": "In which of the following films does Actress \"Aishwariya Rai Bachchan\" play the role of Thief?",
+    "Option1": "Dhoom 2",
+    "Option2": "Ae Dil hai Mushkil",
+    "Option3": "Fanney khan",
+    "Option4": "Devdas",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 56,
+    "Category": "None",
+    "Question": "The famous Movie \"Super30\" was based on the life of which Indian educator.",
+    "Option1": "Narendra Kumar.",
+    "Option2": "Anand Kumar",
+    "Option3": "Anant Kumar.",
+    "Option4": "Vijay Kumar",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 57,
+    "Category": "None",
+    "Question": "Which of the following Actresses ever played Badminton in the National Level Championship?",
+    "Option1": "Priyanka Chopra",
+    "Option2": "Shilpa Shetty",
+    "Option3": "Disha Patani",
+    "Option4": "Deepika Padukone",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 58,
+    "Category": "None",
+    "Question": "What was the name of Kritik Roshan�s character in the Movie \"WAR\"?",
+    "Option1": "Khalid",
+    "Option2": "Kabir",
+    "Option3": "Jubare",
+    "Option4": "Aaquib",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 59,
+    "Category": "None",
+    "Question": "Which of the following is the Debut Film of Ranbir Kapoor?",
+    "Option1": "Saawariya",
+    "Option2": "Rajneeti",
+    "Option3": "Barfi",
+    "Option4": "Ae Dil hai Mushkil",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 60,
+    "Category": "None",
+    "Question": "Which of the following Films is based on the HOMOSEXUALITY?",
+    "Option1": "Shubh Mangal Zyada Sawdhan",
+    "Option2": "Vicky Donar",
+    "Option3": "Badhai Ho",
+    "Option4": "Meri Pyari Bindu",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 61,
+    "Category": "None",
+    "Question": "In Chak De India which team did the Indian Hockey Team Defeat To Win the World Cup Final?",
+    "Option1": "Australia",
+    "Option2": "South Africa",
+    "Option3": "Pakisthan",
+    "Option4": "England",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 62,
+    "Category": "None",
+    "Question": "What is the relationship between Superstar Rajesh Khanna and Akshay Kumar?",
+    "Option1": "Father",
+    "Option2": "Brother-in-law",
+    "Option3": "Father-in-law",
+    "Option4": "Grandfather",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 63,
+    "Category": "None",
+    "Question": "Which of the following is the debut film of the Vidhya Balan?",
+    "Option1": "The dirty Picture",
+    "Option2": "Heyy Babyy",
+    "Option3": "Lage raho munna bhai",
+    "Option4": "Parineeta",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 64,
+    "Category": "None",
+    "Question": "In which film Ishaan Khatter made a debut as a Lead Actor?",
+    "Option1": "Waah! Life ho to Aisi",
+    "Option2": "Dhadak",
+    "Option3": "Beyond The Clouds",
+    "Option4": "Citylights",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 65,
+    "Category": "None",
+    "Question": "For which song did A.R.Rahman receive the Oscar Prize?",
+    "Option1": "Dil se re",
+    "Option2": "Nadan Parinde",
+    "Option3": "Jai Ho",
+    "Option4": "Kun Faya Kun",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 66,
+    "Category": "None",
+    "Question": "SADDHA HAQ AITHE RAKH is a famous song of which film?",
+    "Option1": "Tamasha",
+    "Option2": "Rockstar",
+    "Option3": "Ae Dil hai Mushkil",
+    "Option4": "Yeh Jawani Hai Diwani",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 67,
+    "Category": "None",
+    "Question": "Who played the role of Amitabh Bachchan's adopted son in Baghban?",
+    "Option1": "Paresh rawal",
+    "Option2": "Salman khan",
+    "Option3": "Amir khan",
+    "Option4": "Aman verma",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 68,
+    "Category": "None",
+    "Question": "In which film priyanka chopra play the role of an Indian Boxer?",
+    "Option1": ". Don 2",
+    "Option2": "Fashion",
+    "Option3": "Mary Kom",
+    "Option4": "Krish",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 69,
+    "Category": "None",
+    "Question": "What was the nick name of the kartik aryan in Pyaar ka punchnama 2?",
+    "Option1": "Gogo",
+    "Option2": "Liquid",
+    "Option3": "Thakur",
+    "Option4": "Sonu",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 70,
+    "Category": "None",
+    "Question": "In which of the following films is SRK's house Mannat shown in a scene?",
+    "Option1": "Om Shanti Om",
+    "Option2": "Zero",
+    "Option3": "Fan",
+    "Option4": "Don 2",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 71,
+    "Category": "None",
+    "Question": "In which of the following movies Ranveer Singh's name was Bittu Sharma?",
+    "Option1": "Band Baja Baraat",
+    "Option2": "Lootera",
+    "Option3": "Gully boy",
+    "Option4": "Befikare",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 72,
+    "Category": "None",
+    "Question": "In Barfi Movie, Actor Ranbir Kapoor grew up in which of the following cities?",
+    "Option1": "Delhi",
+    "Option2": "Mumbai",
+    "Option3": "Darjeeling",
+    "Option4": "Lonavala",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 73,
+    "Category": "None",
+    "Question": "Shahrukh Khan played the role of Army Major in which movie?",
+    "Option1": "Raees",
+    "Option2": "Main Hoo Naa",
+    "Option3": "Border",
+    "Option4": "Fan",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 74,
+    "Category": "None",
+    "Question": "What was the Name of the Manoj Bajpai in Gangs Of Wasseypur?",
+    "Option1": "Iqbal khan",
+    "Option2": "Chote khan",
+    "Option3": "Faizal Kan",
+    "Option4": "Sardar khan",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 75,
+    "Category": "None",
+    "Question": "Which film was Kriti Sanon's Debut?",
+    "Option1": "Heropanti",
+    "Option2": "Dilwale",
+    "Option3": "Bareilly ki Barfi",
+    "Option4": "Housefull 4",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 76,
+    "Category": "None",
+    "Question": "What is the nickname of Aamir Khan in the movie \"3 Idiots\"?",
+    "Option1": "Raju",
+    "Option2": "Rancho",
+    "Option3": "Chantur",
+    "Option4": "Virus",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 77,
+    "Category": "None",
+    "Question": "Which film of Nawazuddin Siddiqui is based on Sport?",
+    "Option1": "Kick",
+    "Option2": "Bajrangi Bhaijan",
+    "Option3": "Munna bhai MBBS",
+    "Option4": "Freaky Ali",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 78,
+    "Category": "None",
+    "Question": "Which of the following films is the debut film of Actress Katrina Kaif?",
+    "Option1": "Boom",
+    "Option2": "Sarkar",
+    "Option3": "Dhoom 3",
+    "Option4": "Ajab Prem ki Jajab kahani",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 79,
+    "Category": "None",
+    "Question": "Who sang the song \"Dus Bahane\" in movie BAAGHI 3?",
+    "Option1": "Aditya Narayan",
+    "Option2": "Udit Narayan",
+    "Option3": "Darshan Raval",
+    "Option4": "Vishal-Shekhar",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 80,
+    "Category": "None",
+    "Question": "What was the name of Disha Patani's character in Movie \"Baaghi 2\"?",
+    "Option1": "Riya gony",
+    "Option2": "Neha Salgaonkar",
+    "Option3": "Riya Mishra",
+    "Option4": "Neha Mishra",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 81,
+    "Category": "None",
+    "Question": "In which of the following films Actress Alia Bhatt played the role of Indian Spy?",
+    "Option1": "Romeo Akbar Walter",
+    "Option2": "Gully Boy",
+    "Option3": "Shaandar",
+    "Option4": "Raazi",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 82,
+    "Category": "None",
+    "Question": "What was the profession of Varun Dhawan in the movie \"Sui -Dhaaga\"?",
+    "Option1": "Cyclist",
+    "Option2": "Tailor",
+    "Option3": "Barber",
+    "Option4": "Driver",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 83,
+    "Category": "None",
+    "Question": "What was the name of Paresh Raval in the movie \"Hera Pheri\"?",
+    "Option1": "Baburao Ganpatrao Aapte",
+    "Option2": "Munna",
+    "Option3": "Shyam rao",
+    "Option4": "Kachra seth",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 84,
+    "Category": "None",
+    "Question": "In which of the following film actor Ajay Devgan has played the role of Ghost?",
+    "Option1": "Action Jackson",
+    "Option2": "Golmaal",
+    "Option3": "Kaal",
+    "Option4": "Bol Bachchan",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 85,
+    "Category": "None",
+    "Question": "Gold toh Gold Hota Hai...Chhora Lave ya Chhori is the famous dialogue of which movie?",
+    "Option1": "Lagaan",
+    "Option2": "Dangal",
+    "Option3": "3 idiot",
+    "Option4": "Bhaag Milkha Bhaag",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 86,
+    "Category": "None",
+    "Question": "What was the name of Kajol's character in the film DDLJ?",
+    "Option1": "Shilpa",
+    "Option2": "Simran",
+    "Option3": "Anjali",
+    "Option4": "Tina",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 87,
+    "Category": "None",
+    "Question": "What was the name of the Female Fictional character played by actor Ayushmann Khurrana in the movie Dream Girl?",
+    "Option1": "Geeta",
+    "Option2": "Babita",
+    "Option3": "Pooja",
+    "Option4": "Priya",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 88,
+    "Category": "None",
+    "Question": "What was the name of John Abraham in the Film Batla House?",
+    "Option1": "Rony Thakkar",
+    "Option2": "ACP Sanjay Kumar",
+    "Option3": "Vjay murat",
+    "Option4": "Tony Thakkar",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 89,
+    "Category": "None",
+    "Question": "Which Actor played the role of the Prime Minister in the film PM Narendra Modi?",
+    "Option1": "John Abraham",
+    "Option2": "Ayushmann Khurrana",
+    "Option3": "Amir khan",
+    "Option4": "Vivek Oberoi",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 90,
+    "Category": "None",
+    "Question": "What was the name of Kalki Koechlin in the film 'Gully Boy'?",
+    "Option1": "Sand",
+    "Option2": "Sky",
+    "Option3": "Salina",
+    "Option4": "Rose",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 91,
+    "Category": "None",
+    "Question": "Which of the following Films of Actor Vicky Kaushal?",
+    "Option1": "Masaan",
+    "Option2": "URI:the Surgical Strike",
+    "Option3": "Manmarziyaan",
+    "Option4": "Bhoot",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 92,
+    "Category": "None",
+    "Question": "Which Film is based on the death of the Earlier Prime Minister \"Lal Bahadur Shastri\"?",
+    "Option1": "The Tashkent File",
+    "Option2": "Article 15",
+    "Option3": "The Accidental Prime Minister",
+    "Option4": "URI",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 93,
+    "Category": "None",
+    "Question": "Who was the lead Actor in Film \"Chhichhore\"?",
+    "Option1": "Varun Dhawan",
+    "Option2": "Sushant Singh Rajput",
+    "Option3": "Rahir Bhasin",
+    "Option4": "Varun Sharma",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 94,
+    "Category": "None",
+    "Question": "In the Film Super 30, From which university the actor Hrithik Roshan Receives an invitation?",
+    "Option1": "Standford",
+    "Option2": "Oxford",
+    "Option3": "Cambridge",
+    "Option4": "Sant Tukdoji Maharaj Universtiy",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 95,
+    "Category": "None",
+    "Question": "In the movie Kabir Singh, Kiara Advani is a student of...?",
+    "Option1": "Engineering College",
+    "Option2": "Medical College",
+    "Option3": "Law College",
+    "Option4": "College of physical education",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 96,
+    "Category": "None",
+    "Question": "What was the Name of Hrithik Roshan in the Movie \"Kaho Naa Pyar Hai\"?",
+    "Option1": "Rohit",
+    "Option2": "Rohan",
+    "Option3": "Rahul",
+    "Option4": "Raj",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 97,
+    "Category": "None",
+    "Question": "Which was the last film of Irrfan Khan?",
+    "Option1": "Hindi Medium",
+    "Option2": "Gangs of Wasseypur",
+    "Option3": "Lunch Box",
+    "Option4": "Angrezi Medium",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 98,
+    "Category": "None",
+    "Question": "Who was the actress opposite Nawazuddin Siddiqui in the film 'Thackeray'?",
+    "Option1": "Madhuri Dixit",
+    "Option2": "Amrita Rao",
+    "Option3": "Gayatri joshi",
+    "Option4": "Anushka sharma",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 99,
+    "Category": "None",
+    "Question": "Whose son was Murdered in the film 'Badla'?",
+    "Option1": "Maneesha patel",
+    "Option2": "Amrita Singh",
+    "Option3": "Kirron kher",
+    "Option4": "Kiran Rao",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 100,
+    "Category": "None",
+    "Question": "In which of the following films Madhuri Dixit, Alia Bhatt & Sonakshi Sinha Work Together?",
+    "Option1": "Aaja Nachle",
+    "Option2": "Kalank",
+    "Option3": "R Rajkumar",
+    "Option4": "shandaar",
+    "Answer": "Option 2"
+  }
+]
