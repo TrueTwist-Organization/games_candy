@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | Dice Puzzle</title>
+   
+  </head>
+
+    
+
+  <body>
+    <div id="unity-container">
+      <canvas id="unity-canvas" width=400 height=700></canvas>
+      <div id="unity-loading-bar">
+        <div id="unity-logo"></div>
+        <div id="unity-progress-bar-empty">
+          <div id="unity-progress-bar-full"></div>
+        </div>
+      </div>
+      <div id="unity-warning"> </div>
+      
+    </div>
+    <script>
+      var container = document.querySelector("#unity-container");
+      var canvas = document.querySelector("#unity-canvas");
+      var loadingBar = document.querySelector("#unity-loading-bar");
+      var progressBarFull = document.querySelector("#unity-progress-bar-full");
+      var fullscreenButton = document.querySelector("#unity-fullscreen-button");
+      var warningBanner = document.querySelector("#unity-warning");
+
+      // Shows a temporary message banner/ribbon for a few seconds, or
+      // a permanent error message on top of the canvas if type=='error'.
+      // If type=='warning', a yellow highlight color is used.
+      // Modify or remove this function to customize the visually presented
+      // way that non-critical warnings and error messages are presented to the
+      // user.
+      function unityShowBanner(msg, type) {
+        function updateBannerVisibility() {
+          warningBanner.style.display = warningBanner.children.length ? 'block' : 'none';
+        }
+        var div = document.createElement('div');
+        div.innerHTML = msg;
+        warningBanner.appendChild(div);
+        if (type == 'error') div.style = 'background: red; padding: 10px;';
+        else {
+          if (type == 'warning') div.style = 'background: yellow; padding: 10px;';
+          setTimeout(function() {
+            warningBanner.removeChild(div);
+            updateBannerVisibility();
+          }, 5000);
+        }
+        updateBannerVisibility();
+      }
+
+      //New COde
+
+      var Gameinst = null;
+      // TODO: Call API
+      
+// Extract the baseUrl
+          var baseUrl = "/embed/g/DicePuzzle/";
+
+          // Example of dynamically loading CSS from the base baseUrl
+          var cssUrl =
+            baseUrl + "style.css";
+          var link = document.createElement("link");
+          link.rel = "stylesheet";
+          link.href = cssUrl;
+          document.head.appendChild(link);
+var faviconUrl =
+            baseUrl + "favicon.ico";
+          var faviconLink = document.createElement("link");
+          faviconLink.rel = "shortcut icon";
+          faviconLink.href = faviconUrl;
+          document.head.appendChild(faviconLink);
+// Update buildUrl dynamically from baseUrl
+          var buildUrl = baseUrl + "Build";
+
+
+
+
+        var loaderUrl = buildUrl + "/DicePuzzle.loader.js";
+        var config = {
+        dataUrl: buildUrl + "/DicePuzzle.data.unityweb",
+        frameworkUrl: buildUrl + "/DicePuzzle.framework.js.unityweb",
+        codeUrl: buildUrl + "/DicePuzzle.wasm.unityweb",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "Crikey",
+        productName: "Dice Puzzle",
+        productVersion: "1.0",
+        showBanner: unityShowBanner,
+      };
+
+     
+      var width = document.getElementById('game-content')?.offsetWidth || "400px" ;
+      var height = document.getElementById('game-content')?.offsetHeight || "700px";
+      canvas.style.width = width;
+      canvas.style.height = height;
+      loadingBar.style.display = "block";
+      loadingBar.style.display = "block";
+    
+      
+    
+
+      var script = document.createElement("script");
+      script.src = loaderUrl;
+      script.onload = () => {
+        createUnityInstance(canvas, config, (progress) => {
+          progressBarFull.style.width = 100 * progress + "%";
+        }).then((unityInstance) => {
+
+          Gameinst=unityInstance;
+
+          loadingBar.style.display = "none";
+         
+        }).catch((message) => {
+          alert(message);
+        });
+      };
+      document.body.appendChild(script);
+
+    
+    </script>
+    
+         
+      <script>
+        function call_ShowRewarded() {
+         /* this.showAdFn = undefined;
+          adBreak({
+            type: 'reward',
+            name: 'play-on',
+            beforeReward: function (showAdFn) {
+              this.showAdFn = showAdFn;
+              if (this.showAdFn) {
+                this.showAdFn();
+              }
+              isstop=true;
+}.bind(this),
+            adViewed: function () {
+              isstop=false;
+            
+              Gameinst.SendMessage('ScriptHandler', 'AfterAds');
+              window.focus();
+              if (this.onAdViewed) {
+                this.onAdViewed();
+              }
+}.bind(this),
+            adDismissed: function () {
+isstop=false;
+            
+              Gameinst.SendMessage('ScriptHandler', 'PVPMusicOn');
+              if (this.onAdDismissed) {
+                this.onAdDismissed();
+              }
+            }.bind(this),
+            adBreakDone: function (placementInfo) {
+              isstop=false;
+              Gameinst.SendMessage('ScriptHandler', 'PVPMusicOn');
+            }.bind(this)
+          });*/
+
+           Gameinst.SendMessage('ScriptHandler', 'AfterAds');
+          Gameinst.SendMessage('ScriptHandler', 'PVPMusicOn');
+        }
+      
+        function call_ShowInterstitial() {
+          /*adBreak({
+            type: 'next', // ad shows at start of next level
+            name: 'restart-game',
+            beforeAd: () => {isstop=true; }, // You may also want to mute the game's sound.
+            afterAd: () => { window.focus(); },
+            adBreakDone: function () { Gameinst.SendMessage('ScriptHandler', 'AfterAds'); isstop=false; window.focus(); }.bind(this)
+          });*/
+
+          Gameinst.SendMessage('ScriptHandler', 'AfterAds');
+           Gameinst.SendMessage('ScriptHandler', 'PVPMusicOn');
+          
+        }
+      
+        function GameUpdate() {
+          window.focus();
+        }
+      var isstop=false;
+        document.addEventListener("visibilitychange", () => {
+          if (document.visibilityState === "hidden") {
+            // The page is running in the background
+            Gameinst.SendMessage('ScriptHandler', 'PVPMusicOff');
+}
+          else
+          {
+                  if(isstop==false)
+                  {
+                    // The page is running in the foreground
+                    Gameinst.SendMessage('ScriptHandler', 'PVPMusicOn');
+}
+                  window.focus();
+          }
+        });
+      
+
+
+
+      //
+
+      
+      </script>
+  </body>
+</html>

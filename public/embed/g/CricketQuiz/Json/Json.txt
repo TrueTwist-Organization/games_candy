@@ -1,0 +1,1002 @@
+[
+  {
+    "Sq": 1,
+    "Category": "None",
+    "Question": "Which cricketer had scored most centuries in first-class cricket?",
+    "Option1": "Virat kohli",
+    "Option2": "Sachin Tendulkar",
+    "Option3": "MS dhoni",
+    "Option4": "Varinder Sehwag",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 2,
+    "Category": "None",
+    "Question": "How many times did India win the Cricket World cup?",
+    "Option1": "2",
+    "Option2": "3",
+    "Option3": "4",
+    "Option4": "5",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 3,
+    "Category": "None",
+    "Question": "How many teams particioates in the ICC WORLD Cup 2019?",
+    "Option1": "12",
+    "Option2": "11",
+    "Option3": "13",
+    "Option4": "10",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 4,
+    "Category": "None",
+    "Question": "How many times Chennai Super Kings won the IPL?",
+    "Option1": "4",
+    "Option2": "3",
+    "Option3": "5",
+    "Option4": "7",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 5,
+    "Category": "None",
+    "Question": "Who is the first batsman to cross 10000 runs in Tests?",
+    "Option1": "MS dhoni",
+    "Option2": "Varinder Sehwag",
+    "Option3": "Sunil Gavaskar.",
+    "Option4": "Sachin Tendulkar",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 6,
+    "Category": "None",
+    "Question": "Sachin Tendulkar scored world's first 200 runs in ODI of how many balls?",
+    "Option1": "147",
+    "Option2": "148",
+    "Option3": "157",
+    "Option4": "158",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 7,
+    "Category": "None",
+    "Question": "Who won the first ever Cricket World Cup in 1975?",
+    "Option1": "Australia",
+    "Option2": "England",
+    "Option3": "India",
+    "Option4": "West Indies.",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 8,
+    "Category": "None",
+    "Question": "Name the cities in India where Test cricket has been played on more than one ground:",
+    "Option1": "Mumbai and Chennai.",
+    "Option2": "Mumbai and pune",
+    "Option3": "Chennai and banglore",
+    "Option4": "Pune and Banglore",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 9,
+    "Category": "None",
+    "Question": "Who is Know God of Cricket?",
+    "Option1": "Saurav Ganguli",
+    "Option2": "Sachin Tendulkar",
+    "Option3": "Virat Kohli",
+    "Option4": "MS dhoni",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 10,
+    "Category": "None",
+    "Question": "Who is Know Captain Cool?",
+    "Option1": "MS dhoni",
+    "Option2": "Virat Kohli",
+    "Option3": "Saurav Ganguli",
+    "Option4": "Sunil Gavaskar.",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 11,
+    "Category": "None",
+    "Question": "Who won the ICC Champions Trophy in 2013?",
+    "Option1": "England",
+    "Option2": "Australia",
+    "Option3": "India",
+    "Option4": "West Indies.",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 12,
+    "Category": "None",
+    "Question": "Which Cricket Team has won the most ICC Cricket World Cups?",
+    "Option1": "Australia",
+    "Option2": "England",
+    "Option3": "India",
+    "Option4": "West Indies.",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 13,
+    "Category": "None",
+    "Question": "Which Cricket Team is known as Men in Blue?",
+    "Option1": "Indian National Cricket Team",
+    "Option2": "Indian Test Cricket Team",
+    "Option3": "Indian IPL Cricket Team",
+    "Option4": "Indian T20 Cricket Team",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 14,
+    "Category": "None",
+    "Question": "Which national team are called \"Baggy Greens\"?",
+    "Option1": "Australia",
+    "Option2": "India",
+    "Option3": "West Indies.",
+    "Option4": "Australia",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 15,
+    "Category": "None",
+    "Question": "Who won the first World Cup, 1975?",
+    "Option1": "England",
+    "Option2": "Australia",
+    "Option3": "Australia",
+    "Option4": "West Indies.",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 16,
+    "Category": "None",
+    "Question": "Who is the Top Run Scorer in the 2019 Cricket World Cup?",
+    "Option1": "Yuvraj Singh",
+    "Option2": "Rohit Sharma",
+    "Option3": "MS dhoni",
+    "Option4": "Sunil Gavaskar.",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 17,
+    "Category": "None",
+    "Question": "Who was the Indian Captain when India won the Cricket World Cup in 1983?",
+    "Option1": "Sunil Gavaskar.",
+    "Option2": "MS dhoni",
+    "Option3": "Kapil Dev",
+    "Option4": "Yuvraj Singh",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 18,
+    "Category": "None",
+    "Question": "Who was the Indian Captain when India won the Cricket World Cup in 2011?",
+    "Option1": "Mahendra Singh Dhoni",
+    "Option2": "Rohit Sharma",
+    "Option3": "Yuvraj Singh",
+    "Option4": "Saurav Ganguli",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 19,
+    "Category": "None",
+    "Question": "Who was the Player of the Tournament when India won the World Cup in 2011?",
+    "Option1": "Rohit Sharma",
+    "Option2": "Yuvraj Singh",
+    "Option3": "MS dhoni",
+    "Option4": "Sunil Gavaskar.",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 20,
+    "Category": "None",
+    "Question": "When did the First ICC World Cup take place?",
+    "Option1": "1973",
+    "Option2": "1974",
+    "Option3": "1976",
+    "Option4": "1975",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 21,
+    "Category": "None",
+    "Question": "After how many years does the ICC World Cup take place?",
+    "Option1": "3 Years",
+    "Option2": "4 Years",
+    "Option3": "2 Years",
+    "Option4": "5 Years",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 22,
+    "Category": "None",
+    "Question": "When was Anil Kumble awarded as the Top wicket-Taker in ICC World Cup?",
+    "Option1": "1999",
+    "Option2": "1997",
+    "Option3": "1996",
+    "Option4": "1998",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 23,
+    "Category": "None",
+    "Question": "Who is the Youngest Player in the ICC World Cup 2019?",
+    "Option1": "Mujeeb Ur Rahman",
+    "Option2": "Hardik pandya",
+    "Option3": "Abhishek Sharma",
+    "Option4": "Sarfaraz Khan",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 24,
+    "Category": "None",
+    "Question": "How many times did India host the ICC World Cup Tournament?",
+    "Option1": "1 Times",
+    "Option2": "2 Times",
+    "Option3": "3 Times",
+    "Option4": "4 Times",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 25,
+    "Category": "None",
+    "Question": "Which Country hosted the most ICC World Cup Tournaments?",
+    "Option1": "West Indies.",
+    "Option2": "Australia",
+    "Option3": "India",
+    "Option4": "England",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 26,
+    "Category": "None",
+    "Question": "Who is hosting the  ICC World Cup in 2023?",
+    "Option1": "India",
+    "Option2": "England",
+    "Option3": "Australia",
+    "Option4": "Australia",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 27,
+    "Category": "None",
+    "Question": "Who is the present Captain of the Indian Cricket Team?",
+    "Option1": "Virat kohli",
+    "Option2": "Rohit Sharma",
+    "Option3": "Hardilk pandya",
+    "Option4": "MS Dhoni",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 28,
+    "Category": "None",
+    "Question": "Who is the present Coach of the Indian Cricket Team?",
+    "Option1": "Rahul Dravid",
+    "Option2": "Saurav Ganguli",
+    "Option3": "Sachin Tendulkar",
+    "Option4": "Sunil Gavaskar.",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 29,
+    "Category": "None",
+    "Question": "With which Country did India play its First Test Match?",
+    "Option1": "Pakistan",
+    "Option2": "West india",
+    "Option3": "England",
+    "Option4": "Australia",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 30,
+    "Category": "None",
+    "Question": "Which Indian cricketer won the \"Man of the Match\" award in the 1983 ICC World Cup?",
+    "Option1": "Roger Binny",
+    "Option2": "Kapil dev",
+    "Option3": "Mohinder Amarnath",
+    "Option4": "Sunil Gavaskar",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 31,
+    "Category": "None",
+    "Question": "Full-Form of IPL?",
+    "Option1": "Indian Pramiry Limited",
+    "Option2": "Indian Pramiry League",
+    "Option3": "Indian Premier Limited",
+    "Option4": "Indian Premier League",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 32,
+    "Category": "None",
+    "Question": "Who is the King of IPL?",
+    "Option1": "Mahendra Singh Dhoni",
+    "Option2": "Yuvraj Singh",
+    "Option3": "Sachin Tendulkar",
+    "Option4": "Hardilk pandya",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 33,
+    "Category": "None",
+    "Question": "How many Teams played in the First IPL?",
+    "Option1": "8",
+    "Option2": "9",
+    "Option3": "10",
+    "Option4": "12",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 34,
+    "Category": "None",
+    "Question": "Who won the First IPL in 2008?",
+    "Option1": "Kolkata Knight Riders",
+    "Option2": "Delhi Daredevils",
+    "Option3": "Rajasthan Royals",
+    "Option4": "Chennai Super Kings",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 35,
+    "Category": "None",
+    "Question": "How many Overs are played in IPL?",
+    "Option1": "50 Overs",
+    "Option2": "20 Overs",
+    "Option3": "10 Overs",
+    "Option4": "30 Overs",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 36,
+    "Category": "None",
+    "Question": "Runner-Up of First IPL Match?",
+    "Option1": "Rajasthan Royals",
+    "Option2": "Delhi Daredevils",
+    "Option3": "Chennai Super Kings",
+    "Option4": "Mumbai Indians",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 37,
+    "Category": "None",
+    "Question": "Where was the First IPL Tournament played?",
+    "Option1": "Delhi",
+    "Option2": "Mumbai",
+    "Option3": "Dharmshala",
+    "Option4": "Ahmedabad",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 38,
+    "Category": "None",
+    "Question": "IPL is held after how many years",
+    "Option1": "1",
+    "Option2": "2",
+    "Option3": "3",
+    "Option4": "4",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 39,
+    "Category": "None",
+    "Question": "Who has the highest Individual Score in IPL History?",
+    "Option1": "Virat Kohli",
+    "Option2": "Lasith Malinga",
+    "Option3": "Chris Gayle",
+    "Option4": "Rohit Sharma",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 40,
+    "Category": "None",
+    "Question": "Which Indian Cricket Stadium has the largest Capacity?",
+    "Option1": "Arun Jaitley Stadium",
+    "Option2": "Sardar Patel Stadium",
+    "Option3": "Wankhede Stadium",
+    "Option4": "Green Park",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 41,
+    "Category": "None",
+    "Question": "Which Indian Captain holds the record for most Test wins?",
+    "Option1": "Sachin Tendulkar",
+    "Option2": "Virat Kohli",
+    "Option3": "Rohit Sharma",
+    "Option4": "MS Dhoni",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 42,
+    "Category": "None",
+    "Question": "How many Full Members are there in ICC that play Test Matches?",
+    "Option1": "12",
+    "Option2": "11",
+    "Option3": "10",
+    "Option4": "13",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 43,
+    "Category": "None",
+    "Question": "Oldest Test Cricket playing Country in the world?",
+    "Option1": "Australia",
+    "Option2": "India",
+    "Option3": "West Indies.",
+    "Option4": "England",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 44,
+    "Category": "None",
+    "Question": "Who is known as Run Machine in Cricket?",
+    "Option1": "Rohit Sharma",
+    "Option2": "Sachin Tendulkar",
+    "Option3": "MS Dhoni",
+    "Option4": "Virat Kohli",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 45,
+    "Category": "None",
+    "Question": "What is Nicknames of Indian Cricketer Harbhajan Singh?",
+    "Option1": "Bhajji",
+    "Option2": "singh",
+    "Option3": "Master Blaster",
+    "Option4": "The Haryana Hurricane",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 46,
+    "Category": "None",
+    "Question": "Who is the Queen of Cricket?",
+    "Option1": "Poonam Yadav",
+    "Option2": "Mithali Raj",
+    "Option3": "Radha Yadav",
+    "Option4": "Smriti Mandhana",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 47,
+    "Category": "None",
+    "Question": "Who is known as Sixer King?",
+    "Option1": "Sachin Tendulkar",
+    "Option2": "Rohit Sharma",
+    "Option3": "Virat Kohli",
+    "Option4": "Yuvraj Singh",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 48,
+    "Category": "None",
+    "Question": "Who is the most successful Captain in the IPL?",
+    "Option1": "Rohit Sharma",
+    "Option2": "Sachin Tendulkar",
+    "Option3": "Hardik pandya",
+    "Option4": "Virat Kohli",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 49,
+    "Category": "None",
+    "Question": "When was the India Women's Cricket Team Established?",
+    "Option1": "1977",
+    "Option2": "1976",
+    "Option3": "1975",
+    "Option4": "1974",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 50,
+    "Category": "None",
+    "Question": "Name of the First Captain of the Indian Cricket Team?",
+    "Option1": "Amar singh",
+    "Option2": "Vijay Merchant",
+    "Option3": "C.K. Nayudu",
+    "Option4": "Wazir Ali",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 51,
+    "Category": "None",
+    "Question": "Name of the First Captain of the Indian ODI Team?",
+    "Option1": "Vijay Merchant",
+    "Option2": "Amar singh",
+    "Option3": "Ajit Wadekar",
+    "Option4": "C.K. Nayudu",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 52,
+    "Category": "None",
+    "Question": "Name of the First Captain of the Indian T20 International Team?",
+    "Option1": "Virender Sehwag",
+    "Option2": "Sachin Tendulkar",
+    "Option3": "Yuvraj Singh",
+    "Option4": "Virat Kohli",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 53,
+    "Category": "None",
+    "Question": "The First Bowler to take 10 Wickets in an Innings?",
+    "Option1": "Jasprit Bumrah",
+    "Option2": "Anil Kumble",
+    "Option3": "Ashish Nehra",
+    "Option4": "Stuart Binny",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 54,
+    "Category": "None",
+    "Question": "Name of the First Women's Captain of the Indian Cricket Team?",
+    "Option1": "Radha yadav",
+    "Option2": "Deepti Sharma",
+    "Option3": "Richa Gosh",
+    "Option4": "Shantha Rangaswamy",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 55,
+    "Category": "None",
+    "Question": "How many people are on the field when the Cricket Ball is considered Alive?",
+    "Option1": "16",
+    "Option2": "17",
+    "Option3": "15",
+    "Option4": "19",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 56,
+    "Category": "None",
+    "Question": "How long was the Longest Test Match in History?",
+    "Option1": "7 Days",
+    "Option2": "8 Days",
+    "Option3": "9 Days",
+    "Option4": "10 Days",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 57,
+    "Category": "None",
+    "Question": "Which Cricketer is known as Turbanator?",
+    "Option1": "Sachin Tendulkar",
+    "Option2": "Harbhajan Singh Plaha",
+    "Option3": "Kapil Dev",
+    "Option4": "Virender Sehwag",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 58,
+    "Category": "None",
+    "Question": "First Female to Umpire in a T20 International Men�s Match?",
+    "Option1": "Shivani Mishra",
+    "Option2": "Radha yadav",
+    "Option3": "Deepti Sharma",
+    "Option4": "Richa Gosh",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 59,
+    "Category": "None",
+    "Question": "Who won the 2019 ICC World Cup?",
+    "Option1": "Pakistan",
+    "Option2": "Bangladesh",
+    "Option3": "India",
+    "Option4": "England",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 60,
+    "Category": "None",
+    "Question": "What is the distance between the Popping Crease and the Bowling Crease?",
+    "Option1": "4 feet",
+    "Option2": "5 feet",
+    "Option3": "6 feet",
+    "Option4": "7 feet",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 61,
+    "Category": "None",
+    "Question": "Who has Umpired in the most Test Matches?",
+    "Option1": "Neil Bagh",
+    "Option2": "Rob Bailey",
+    "Option3": "Aleem Dar",
+    "Option4": "Paul Baldwin",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 62,
+    "Category": "None",
+    "Question": "Who wore ODI and T20I Shirt No.7?",
+    "Option1": "Mahendra Singh Dhoni",
+    "Option2": "Sachin Tendulkar",
+    "Option3": "Virender Sehwag",
+    "Option4": "Harbhajan Singh Plaha",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 63,
+    "Category": "None",
+    "Question": "When did MS Dhoni announce his retirement from the Test format?",
+    "Option1": "2015",
+    "Option2": "2014",
+    "Option3": "2016",
+    "Option4": "2017",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 64,
+    "Category": "None",
+    "Question": "When did Virat Kohli announce to quit as Indian Men�s Cricket Test Captain",
+    "Option1": "2021",
+    "Option2": "2019",
+    "Option3": "2018",
+    "Option4": "2022",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 65,
+    "Category": "None",
+    "Question": "When did Indian National Cricket Team acquire Test status?",
+    "Option1": "1930",
+    "Option2": "1931",
+    "Option3": "1932",
+    "Option4": "1933",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 66,
+    "Category": "None",
+    "Question": "Who was the first Head Coach of the Indian Cricket Team?",
+    "Option1": "Hemu Adhikari",
+    "Option2": "Datta Gaekwad",
+    "Option3": "Keki Tarapore",
+    "Option4": "Chandu Borde",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 67,
+    "Category": "None",
+    "Question": "When did India play its First Test Match?",
+    "Option1": "1931",
+    "Option2": "1932",
+    "Option3": "1933",
+    "Option4": "1934",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 68,
+    "Category": "None",
+    "Question": "Who was the First Batsman ever to score a century for India in Test Cricket?",
+    "Option1": "Lala Amarnath Bharadwaj",
+    "Option2": "Kapil Dev",
+    "Option3": "Sachin Tendulkar",
+    "Option4": "Rahul Dravid",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 69,
+    "Category": "None",
+    "Question": "Full form of ODI?",
+    "Option1": "One Day IPL",
+    "Option2": "One Day International",
+    "Option3": "On Day International",
+    "Option4": "On Day IPL",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 70,
+    "Category": "None",
+    "Question": "What is the name given to an Organized group of Indian Cricket Team Supporters?",
+    "Option1": "Bharat Army",
+    "Option2": "Bharat Nevy",
+    "Option3": "Indian force",
+    "Option4": "None",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 71,
+    "Category": "None",
+    "Question": "Who is the Top Wicket Taker in the 2011 Cricket World Cup?",
+    "Option1": "Virat kohli",
+    "Option2": "Rohit Sharma",
+    "Option3": "Ravindra jadeja",
+    "Option4": "Zaheer Khan",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 72,
+    "Category": "None",
+    "Question": "Who amongst the following is the Indian player to make fastest century in the T20?",
+    "Option1": "Rishabh Pant",
+    "Option2": "Ravindra jadeja",
+    "Option3": "Rohit Sharma",
+    "Option4": "Ganguli",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 73,
+    "Category": "None",
+    "Question": "For how many times did India win the Cricket Asia Cup on 29th September, 2018 defeating Bangladesh ?",
+    "Option1": "8",
+    "Option2": "9",
+    "Option3": "7",
+    "Option4": "6",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 74,
+    "Category": "None",
+    "Question": "Chennai Super Kings lifted the Trophy of IPL 2018 for third time by defeating?",
+    "Option1": "Rajasthan Royals",
+    "Option2": "Delhi Daredevils",
+    "Option3": "Sunrisers Hyderabad",
+    "Option4": "Mumbai Indians",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 75,
+    "Category": "None",
+    "Question": "Bangladesh has won the Women's Cricket Asia Cup Trophy (Twenty-20 Tournament) held in Malaysia in June 2018. Which team was defeated in the finals ?",
+    "Option1": "Pakistan",
+    "Option2": "India",
+    "Option3": "England",
+    "Option4": "West india",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 76,
+    "Category": "None",
+    "Question": "First non test playing nation that beat India in International Cricket?",
+    "Option1": "England",
+    "Option2": "West india",
+    "Option3": "Sri Lanka",
+    "Option4": "Pakistan",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 77,
+    "Category": "None",
+    "Question": "Sachin Tendulkar score his first century after playing?",
+    "Option1": "78 matches",
+    "Option2": "75 matches",
+    "Option3": "76 matches",
+    "Option4": "77 matches",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 78,
+    "Category": "None",
+    "Question": "In which year was Sachin Tendulkar given the Arjuna Award?",
+    "Option1": "1993",
+    "Option2": "1992",
+    "Option3": "1991",
+    "Option4": "1994",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 79,
+    "Category": "None",
+    "Question": "The Brabourne Cricket Stadium is situated in the Indian State of",
+    "Option1": "Delhi",
+    "Option2": "Ahmdabad",
+    "Option3": "Maharashtra",
+    "Option4": "Pune",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 80,
+    "Category": "None",
+    "Question": "Greg Chappell was associated with the game of?",
+    "Option1": "Volleyball",
+    "Option2": "Basketball",
+    "Option3": "Cricket",
+    "Option4": "Football",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 81,
+    "Category": "None",
+    "Question": "Which team has won the most Test series and how many have they won?",
+    "Option1": "Pakistan",
+    "Option2": "Australia",
+    "Option3": "England",
+    "Option4": "None",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 82,
+    "Category": "None",
+    "Question": "Who has the best bowling figures in a Test match",
+    "Option1": "Jim Laker",
+    "Option2": "josh Hazlewood",
+    "Option3": "Trent Boult",
+    "Option4": "Kulddep Yadav",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 83,
+    "Category": "None",
+    "Question": "Who was the Indian Captain when India won the Cricket World Cup in 2011?",
+    "Option1": "Virat Kohli",
+    "Option2": "Ravindra jadeja",
+    "Option3": "Rohit Sharma",
+    "Option4": "Mahendra Singh Dhoni",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 84,
+    "Category": "None",
+    "Question": "Which team won the first-ever day-night Test match and who were they playing against?",
+    "Option1": "Pakistan",
+    "Option2": "England",
+    "Option3": "Australia",
+    "Option4": "India",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 85,
+    "Category": "None",
+    "Question": "In which year was the first IPL season held?",
+    "Option1": "2009",
+    "Option2": "2008",
+    "Option3": "2007",
+    "Option4": "2006",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 86,
+    "Category": "None",
+    "Question": "Which team has won the most IPL titles?",
+    "Option1": "Sunrisers Hyderabad",
+    "Option2": "Rajasthan Royals",
+    "Option3": "Delhi Daredevils",
+    "Option4": "Mumbai Indians",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 87,
+    "Category": "None",
+    "Question": "Who has won the most IPL Player of the Match awards?",
+    "Option1": "Chris Gayle",
+    "Option2": "Lasith Malinga",
+    "Option3": "Virat kohli",
+    "Option4": "Hardik  pandya",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 88,
+    "Category": "None",
+    "Question": "Who is the only player to take a hat-trick in IPL finals?",
+    "Option1": "Chris Gayle",
+    "Option2": "Hardik  pandya",
+    "Option3": "Lakshmipathy Balaji",
+    "Option4": "Rishabh Pant",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 89,
+    "Category": "None",
+    "Question": "In cricket, what word, which rhymes with the sport, refers to the set of stumps and bails at either end of the pitch?",
+    "Option1": "No Ball",
+    "Option2": "Wicket",
+    "Option3": "Sixer",
+    "Option4": "None",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 90,
+    "Category": "None",
+    "Question": "As has been tradition for many years, what color apparel is typically worn during test cricket?",
+    "Option1": "Blue",
+    "Option2": "Red",
+    "Option3": "Green",
+    "Option4": "White",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 91,
+    "Category": "None",
+    "Question": "During normal play of a cricket match, how many umpires are on the field?",
+    "Option1": "3",
+    "Option2": "4",
+    "Option3": "2",
+    "Option4": "1",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 92,
+    "Category": "None",
+    "Question": "The slang term \"duck\" in cricket typically refers to what score for a batsman?",
+    "Option1": "1",
+    "Option2": "2",
+    "Option3": "0",
+    "Option4": "4",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 93,
+    "Category": "None",
+    "Question": "The second-most populous country on the planet will be hosting the 2023 Cricket World Cup. What is this country?",
+    "Option1": "India",
+    "Option2": "Pakistan",
+    "Option3": "Bangladesh",
+    "Option4": "West India",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 94,
+    "Category": "None",
+    "Question": "The inaugural Cricket World Cup began on June 7, 1975 in what country?",
+    "Option1": "Pakistan",
+    "Option2": "Bangladesh",
+    "Option3": "West India",
+    "Option4": "England",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 95,
+    "Category": "None",
+    "Question": "The Big Bash League is based in which country?",
+    "Option1": "Bangladesh",
+    "Option2": "Australia",
+    "Option3": "Pakistan",
+    "Option4": "West India",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 96,
+    "Category": "None",
+    "Question": "Ben Stokes made his Test debut for England in which year?",
+    "Option1": "2010",
+    "Option2": "2011",
+    "Option3": "2013",
+    "Option4": "2012",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 97,
+    "Category": "None",
+    "Question": "Who has recorded the most career runs in England Test match cricket?",
+    "Option1": "Zak Crawley",
+    "Option2": "Alastair Cook",
+    "Option3": "Moeen Ali",
+    "Option4": "Jonny Bairston",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 98,
+    "Category": "None",
+    "Question": "How long is the wicket on a cricket pitch?",
+    "Option1": "18 yards",
+    "Option2": "17 yards",
+    "Option3": "22 yards",
+    "Option4": "20 yards",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 99,
+    "Category": "None",
+    "Question": "Which Australian player has scored the most test runs?",
+    "Option1": "Steve Waugh",
+    "Option2": "Don Bradman",
+    "Option3": "Ricky Ponting",
+    "Option4": "Matthew Hayden",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 100,
+    "Category": "None",
+    "Question": "Who is the only batsman to record 400 runs in an international Test match?",
+    "Option1": "Steve Smith",
+    "Option2": "WG Grace",
+    "Option3": "Don Bradman",
+    "Option4": "Brian Lara",
+    "Answer": "Option 4"
+  }
+]
