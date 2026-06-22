@@ -1,0 +1,1002 @@
+[
+  {
+    "Sq": 1,
+    "Category": "None",
+    "Question": "In Home Alone 2: Lost in New York, Which US President gives Kevin directions?",
+    "Option1": "Barack Obama",
+    "Option2": "Donald Trump",
+    "Option3": "George W. Bush",
+    "Option4": "Joe Biden",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 2,
+    "Category": "None",
+    "Question": "In Back to the Future II, Marty, Doc, and Jennifer travel through time to which year in the future?",
+    "Option1": 2021,
+    "Option2": 1982,
+    "Option3": 2015,
+    "Option4": 2020,
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 3,
+    "Category": "None",
+    "Question": "Which of the following is officially the highest-grossing movie of all time?",
+    "Option1": "Avatar",
+    "Option2": "Avengers: Endgame",
+    "Option3": "Titanic",
+    "Option4": "Star Wars Ep. VII",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 4,
+    "Category": "None",
+    "Question": "Dirty Dancing was set in which decade?",
+    "Option1": "1940s",
+    "Option2": "1950s",
+    "Option3": "1960s",
+    "Option4": "1970s",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 5,
+    "Category": "None",
+    "Question": "What color pill does Neo choose to take in The Matrix?",
+    "Option1": "Black",
+    "Option2": "White",
+    "Option3": "Blue",
+    "Option4": "Red",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 6,
+    "Category": "None",
+    "Question": "Which country were The Lord of the Rings movies filmed in?",
+    "Option1": "New Zealand",
+    "Option2": "Iceland",
+    "Option3": "Croatia",
+    "Option4": "Australia",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 7,
+    "Category": "None",
+    "Question": "Freddy Krueger famously wore a striped sweater in which two colors?",
+    "Option1": "Black and White",
+    "Option2": "Red and Green",
+    "Option3": "Blue and Yellow",
+    "Option4": "Pink and Purple",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 8,
+    "Category": "None",
+    "Question": "How many films have been released in the Jumanji franchise as of 2022?",
+    "Option1": 2,
+    "Option2": 3,
+    "Option3": 4,
+    "Option4": 5,
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 9,
+    "Category": "None",
+    "Question": "On what planet does Rey finally find Luke Skywalker after Star Wars: The Force Awakens?",
+    "Option1": "Ahch-To",
+    "Option2": "Coruscant",
+    "Option3": "Jakku",
+    "Option4": "Tatooine",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 10,
+    "Category": "None",
+    "Question": "What is the name of Simba's villainous uncle in The Lion King?",
+    "Option1": "Shere Khan",
+    "Option2": "Jafar",
+    "Option3": "Gaston",
+    "Option4": "Scar",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 11,
+    "Category": "None",
+    "Question": "Which of the following does Shrek comedically compare ogres to?",
+    "Option1": "Onions",
+    "Option2": "Apples",
+    "Option3": "Sprouts",
+    "Option4": "Grapes",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 12,
+    "Category": "None",
+    "Question": "The code in The Matrix comes from what food recipes?",
+    "Option1": "Sushi",
+    "Option2": "Dumplings",
+    "Option3": "Stir-fry",
+    "Option4": "Pad thai",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 13,
+    "Category": "None",
+    "Question": "What's the name of Meatloaf's character in The Rocky Horror Picture Show?",
+    "Option1": "Henry",
+    "Option2": "Eddie",
+    "Option3": "Chuck",
+    "Option4": "Al",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 14,
+    "Category": "None",
+    "Question": "Who actually drew the sketch of Rose in Titanic?",
+    "Option1": "Leonardo DiCaprio",
+    "Option2": "Billy Zane",
+    "Option3": "James Cameron",
+    "Option4": "Kathy Bates",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 15,
+    "Category": "None",
+    "Question": "Who voices Joy in Pixar's Inside Out?",
+    "Option1": "Tina Fey",
+    "Option2": "Kathryn Hahn",
+    "Option3": "Ellen DeGeneres",
+    "Option4": "Amy Poehler",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 16,
+    "Category": "None",
+    "Question": "Where were The Lord of the Rings movies filmed?",
+    "Option1": "Ireland",
+    "Option2": "Iceland",
+    "Option3": "New Zealand",
+    "Option4": "Australia",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 17,
+    "Category": "None",
+    "Question": "Which country does Forrest Gump travel to as part of the All-American Ping-Pong Team?",
+    "Option1": "Vietnam",
+    "Option2": "China",
+    "Option3": "Sweden",
+    "Option4": "France",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 18,
+    "Category": "None",
+    "Question": "Which film won the first Academy Award for Best Picture?",
+    "Option1": "Wings",
+    "Option2": "Gone with the Wind",
+    "Option3": "Casablanca",
+    "Option4": "The Godfather",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 19,
+    "Category": "None",
+    "Question": "Which actor was in the following movies: The Outsiders, Wayne's World, and Tommy Boy?",
+    "Option1": "Tom Cruise",
+    "Option2": "Matt Dillon",
+    "Option3": "Rob Lowe",
+    "Option4": "Thomas Howell",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 20,
+    "Category": "None",
+    "Question": "Who was the first Black person to win an Oscar?",
+    "Option1": "Hattie McDaniel",
+    "Option2": "Sidney Poitier",
+    "Option3": "Dorothy Dandridge",
+    "Option4": "James Earl Jones",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 21,
+    "Category": "None",
+    "Question": "Which is not the name of a child selected to tour the Wonka factory in Willy Wonka and the Chocolate Factory?",
+    "Option1": "Billy Warp",
+    "Option2": "Veruca Salt",
+    "Option3": "Mike Teavee",
+    "Option4": "Charlie Bucket",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 22,
+    "Category": "None",
+    "Question": "Who did the cat in the classic movie The Godfather belong to?",
+    "Option1": "Francis Ford Coppola",
+    "Option2": "Diane Keaton",
+    "Option3": "Al Pachino",
+    "Option4": "No one the cat was a stray.",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 23,
+    "Category": "None",
+    "Question": "What is the name of the fictional land where Frozen takes place?",
+    "Option1": "Arendelle",
+    "Option2": "Naples",
+    "Option3": "Florin",
+    "Option4": "Grimm",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 24,
+    "Category": "None",
+    "Question": "What score did Elle Woods get on her LSAT in Legally Blonde?",
+    "Option1": 155,
+    "Option2": 166,
+    "Option3": 170,
+    "Option4": 179,
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 25,
+    "Category": "None",
+    "Question": "Which movie is this famous line from: \"I wish I knew how to quit you",
+    "Option1": "Love Actually",
+    "Option2": "The Summer Story",
+    "Option3": "Brokeback Mountain",
+    "Option4": "The Notebook",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 26,
+    "Category": "None",
+    "Question": "What was the top-grossing movie of 2014?",
+    "Option1": "Arrow",
+    "Option2": "The Lego Movie",
+    "Option3": "Captain America",
+    "Option4": "Guardians of the Galaxy",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 27,
+    "Category": "None",
+    "Question": "How old was Stockard Channing when she played high school student Rizzo in Grease?",
+    "Option1": 27,
+    "Option2": 33,
+    "Option3": 30,
+    "Option4": 20,
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 28,
+    "Category": "None",
+    "Question": "Who directed the hit 2017 movie Get Out?",
+    "Option1": "James Wan",
+    "Option2": "Jordan Peele",
+    "Option3": "Guillermo del Toro",
+    "Option4": "Tim Story",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 29,
+    "Category": "None",
+    "Question": "What item is in every Fight Club scene?",
+    "Option1": "A Coca-Cola can",
+    "Option2": "A Starbucks cup",
+    "Option3": "A Dunkin's donut",
+    "Option4": "A Pepsi bottle",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 30,
+    "Category": "None",
+    "Question": "If you watch the Marvel movies in chronological order, which movie would you watch first?",
+    "Option1": "Iron Man",
+    "Option2": "Captain America",
+    "Option3": "Doctor Strange",
+    "Option4": "Captain Marvel",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 31,
+    "Category": "None",
+    "Question": "Who is considered the first major Hollywood movie star?",
+    "Option1": "Mary Pickford",
+    "Option2": "Charlie Chaplin",
+    "Option3": "Rudolph Valentino",
+    "Option4": "Douglas Fairbanks",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 32,
+    "Category": "None",
+    "Question": "Which movie is this quote from: \"Here's looking at you, kid\"?",
+    "Option1": "Breakfast at Tiffany's",
+    "Option2": "Citizen Kane",
+    "Option3": "Casablanca",
+    "Option4": "Notorious",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 33,
+    "Category": "None",
+    "Question": "What is the name of the camp where counselors are terrorized by a slasher on Friday the 13th?",
+    "Option1": "Camp Holland Lake",
+    "Option2": "Camp Crystal Lake",
+    "Option3": "Camp Diamond Lake",
+    "Option4": "Camp Green Lake",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 34,
+    "Category": "None",
+    "Question": "Some of the velociraptor noises in Jurassic Park are actually which animals mating?",
+    "Option1": "Tortoises",
+    "Option2": "Frogs",
+    "Option3": "Lizards",
+    "Option4": "Crocodiles",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 35,
+    "Category": "None",
+    "Question": "Which actor hasn't played the Joker?",
+    "Option1": "Jack Nicholson",
+    "Option2": "Sean Penn",
+    "Option3": "Jared Leto",
+    "Option4": "Mark Hamill",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 36,
+    "Category": "None",
+    "Question": "In which country was the 2017 movie Call Me By Your Name filmed?",
+    "Option1": "France",
+    "Option2": "Italy",
+    "Option3": "Greece",
+    "Option4": "Morocco",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 37,
+    "Category": "None",
+    "Question": "The dog in The Sandlot is nicknamed \"The Beast\". What's the dog's actual name?",
+    "Option1": "Hercules",
+    "Option2": "Goliath",
+    "Option3": "Atlas",
+    "Option4": "Zeus",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 38,
+    "Category": "None",
+    "Question": "Which singer starred alongside Steve Martin in 2006's remake of The Pink Panther?",
+    "Option1": "Beyonc�",
+    "Option2": "Britney Spears",
+    "Option3": "Rihanna",
+    "Option4": "Mariah Carey",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 39,
+    "Category": "None",
+    "Question": "Which film won the Best Picture Oscar at the 2020 Academy Awards?",
+    "Option1": "Parasite",
+    "Option2": "Joker",
+    "Option3": 1917,
+    "Option4": "The Shape of Water",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 40,
+    "Category": "None",
+    "Question": "How many Oscars has Halle Berry won?",
+    "Option1": "Two",
+    "Option2": "One",
+    "Option3": "Zero",
+    "Option4": "Four",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 41,
+    "Category": "None",
+    "Question": "Which movie is this quote from: \"What's in the box?",
+    "Option1": "Speed",
+    "Option2": "Reservoir Dogs",
+    "Option3": "The Boondock Saints",
+    "Option4": "Se7en",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 42,
+    "Category": "None",
+    "Question": "In Mean Girls, Cady moves to Illinois from which continent?",
+    "Option1": "Australia",
+    "Option2": "Europe",
+    "Option3": "Africa",
+    "Option4": "Asia",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 43,
+    "Category": "None",
+    "Question": "Michael Myers's mask in Halloween is which actor's face?",
+    "Option1": "Clint Eastwood",
+    "Option2": "Marlon Brando",
+    "Option3": "Paul Newman",
+    "Option4": "William Shatner",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 44,
+    "Category": "None",
+    "Question": "Which movie was not directed by Tim Burton?",
+    "Option1": "The Witches",
+    "Option2": "Pee-Wee's Big Adventure",
+    "Option3": "Corpse Bride",
+    "Option4": "Big Fish",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 45,
+    "Category": "None",
+    "Question": "Which movie does not feature Emma Stone?",
+    "Option1": "Superbad",
+    "Option2": "Easy A",
+    "Option3": "The Help",
+    "Option4": "No Strings Attached",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 46,
+    "Category": "None",
+    "Question": "What object was Toy Story's Woody originally?",
+    "Option1": "Ventriloquist dummy",
+    "Option2": "Puppet",
+    "Option3": "Clown doll",
+    "Option4": "Nesting doll",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 47,
+    "Category": "None",
+    "Question": "Who directed Silence of the Lambs?",
+    "Option1": "Wes Anderson",
+    "Option2": "Jonathan Demme",
+    "Option3": "Oliver Stone",
+    "Option4": "Christopher Nolan",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 48,
+    "Category": "None",
+    "Question": "Who directed the �Lord of the Rings� trilogy?",
+    "Option1": "Peter Jackson",
+    "Option2": "Christopher Nolan",
+    "Option3": "James Cameron",
+    "Option4": "Steven Spielberg",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 49,
+    "Category": "None",
+    "Question": "Which professional athlete was considered for the lead in The Terminator?",
+    "Option1": "Dan Marino",
+    "Option2": "Mike Tyson",
+    "Option3": "O.J. Simpson",
+    "Option4": "Wayne Gretzky",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 50,
+    "Category": "None",
+    "Question": "How old was the voice actress of Monster Inc.'s Boo at the time of production?",
+    "Option1": "2-1/2",
+    "Option2": 4,
+    "Option3": 6,
+    "Option4": 8,
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 51,
+    "Category": "None",
+    "Question": "Who took home an Oscar for Best Actor in 1998?",
+    "Option1": "Matt Damon",
+    "Option2": "Jack Nicholson",
+    "Option3": "Liam Neeson",
+    "Option4": "Sean Penn",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 52,
+    "Category": "None",
+    "Question": "Which phrase completes this famous quote from The Princess Bride: \"Hello, my name is Inigo Montoya. You killed my father. ___ ",
+    "Option1": "And now, you will pay.",
+    "Option2": "Face me now, coward.",
+    "Option3": "Prepare to die.",
+    "Option4": "Tell me, why?",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 53,
+    "Category": "None",
+    "Question": "Who plays lawyer-turned-youth-hockey-coach Gordon Bombay in The Mighty Ducks franchise?",
+    "Option1": "Denzel Washington",
+    "Option2": "Charlie Sheen",
+    "Option3": "Emilio Estevez",
+    "Option4": "Tim Allen",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 54,
+    "Category": "None",
+    "Question": "In The Ring, how long do people have to live after they watch a cursed videotape?",
+    "Option1": "Three days",
+    "Option2": "Seven days",
+    "Option3": "Five days",
+    "Option4": "One day",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 55,
+    "Category": "None",
+    "Question": "A Harry Potter stunt double was paralyzed on the job. Which actor did the stunt double do stunts for?",
+    "Option1": "Rupert Grint",
+    "Option2": "Emma Watson",
+    "Option3": "Alan Rickman",
+    "Option4": "Daniel Radcliffe",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 56,
+    "Category": "None",
+    "Question": "Who plays Captain Steven Hiller in the 1996 blockbuster Independence Day?",
+    "Option1": "Will Smith",
+    "Option2": "Samuel L. Jackson",
+    "Option3": "Denzel Washington",
+    "Option4": "Terry Crews",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 57,
+    "Category": "None",
+    "Question": "The set for which movie was buried underground for decades?",
+    "Option1": "Nosferatu",
+    "Option2": "The Ten Commandments",
+    "Option3": "The Great Train Robbery",
+    "Option4": "Stagecoach",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 58,
+    "Category": "None",
+    "Question": "Who played Wendy Torrance in The Shining?",
+    "Option1": "Cher",
+    "Option2": "Shelley Duvall",
+    "Option3": "Sissy Spacek",
+    "Option4": "Linda Ronstadt",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 59,
+    "Category": "None",
+    "Question": "Which was the first movie to show a toilet flushing?",
+    "Option1": "Psycho",
+    "Option2": "Citizen Kane",
+    "Option3": "The Graduate",
+    "Option4": "Vertigo",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 60,
+    "Category": "None",
+    "Question": "Which movie was Spike Lee's first feature film?",
+    "Option1": "She's Gotta Have It",
+    "Option2": "Do the Right Thing",
+    "Option3": "School Daze",
+    "Option4": "Malcolm X",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 61,
+    "Category": "None",
+    "Question": "Dracula was filmed in English during the day, and in what other language at night?",
+    "Option1": "German",
+    "Option2": "Swedish",
+    "Option3": "French",
+    "Option4": "Spanish",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 62,
+    "Category": "None",
+    "Question": "Which film won the Oscar for Best Picture in 1995?",
+    "Option1": "Pulp Fiction",
+    "Option2": "Forrest Gump",
+    "Option3": "Skyhigh",
+    "Option4": "Lucy",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 63,
+    "Category": "None",
+    "Question": "True or false: Jimmy Stewart did not want to do It's a Wonderful Life.",
+    "Option1": "FALSE",
+    "Option2": "TRUE",
+    "Option3": "BOTH",
+    "Option4": "None",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 64,
+    "Category": "None",
+    "Question": "Which actor plays Private Ryan in Saving Private Ryan?",
+    "Option1": "Tom Hanks",
+    "Option2": "Vin Diesel",
+    "Option3": "Edward Burns",
+    "Option4": "Matt Damon",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 65,
+    "Category": "None",
+    "Question": "Who is the youngest person to ever win an Oscar?",
+    "Option1": "Jennifer Lawrence",
+    "Option2": "Mickey Rooney",
+    "Option3": "Haley Joel Osment",
+    "Option4": "Tatum O'Neal",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 66,
+    "Category": "None",
+    "Question": "What is the name of Jeff Goldblum's character in Jurassic Park?",
+    "Option1": "Dr. Ian Malcolm",
+    "Option2": "Dr. Malcolm Stevens",
+    "Option3": "Dr. Evan Malcolm",
+    "Option4": "Dr. Michael Ian",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 67,
+    "Category": "None",
+    "Question": "What is the highest-grossing movie of all time?",
+    "Option1": "Titanic",
+    "Option2": "Avatar",
+    "Option3": "Avengers: Endgame",
+    "Option4": "Tomb Rider",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 68,
+    "Category": "None",
+    "Question": "Bedford Falls, the town in It's a Wonderful Life, is based on which real New York town?",
+    "Option1": "Seneca Falls",
+    "Option2": "Genesee Falls",
+    "Option3": "High Falls",
+    "Option4": "Keuka Falls",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 69,
+    "Category": "None",
+    "Question": "Who was originally cast to voice Shrek?",
+    "Option1": "Bill Murray",
+    "Option2": "Chris Farley",
+    "Option3": "David Spade",
+    "Option4": "Chris Rock",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 70,
+    "Category": "None",
+    "Question": "Miley Cyrus and Liam Hemsworth first met on the set of which film?",
+    "Option1": "Hannah Montana: The Movie",
+    "Option2": "The Last Song",
+    "Option3": "The Hunger Games",
+    "Option4": "Safe Haven",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 71,
+    "Category": "None",
+    "Question": "Which is the first movie in the Bourne franchise?",
+    "Option1": "The Bourne Legacy",
+    "Option2": "The Bourne Supremacy",
+    "Option3": "Jason Bourne",
+    "Option4": "The Bourne Identity",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 72,
+    "Category": "None",
+    "Question": "Which actor isn't in Anchorman?",
+    "Option1": "Paul Rudd",
+    "Option2": "Seth Rogen",
+    "Option3": "David Koechner",
+    "Option4": "Adam Scott",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 73,
+    "Category": "None",
+    "Question": "What are the names of the two people behind Ghostface in Scream?",
+    "Option1": "Billy and Steve",
+    "Option2": "Bobby and Stu",
+    "Option3": "Bobby and Steve",
+    "Option4": "Billy and Stu",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 74,
+    "Category": "None",
+    "Question": "What year was the first Die Hard movie released?",
+    "Option1": 1986,
+    "Option2": 1988,
+    "Option3": 1990,
+    "Option4": 1991,
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 75,
+    "Category": "None",
+    "Question": "What is the name of the chainsaw-wielding maniac in The Texas Chainsaw Massacre?",
+    "Option1": "Leatherhead",
+    "Option2": "Leatherface",
+    "Option3": "Hideface",
+    "Option4": "Leathercap",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 76,
+    "Category": "None",
+    "Question": "Which movie does not feature Catherine O'Hara?",
+    "Option1": "Nothing Personal",
+    "Option2": "The Nightmare",
+    "Option3": "Beetlejuice",
+    "Option4": "City of Angels",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 77,
+    "Category": "None",
+    "Question": "Who plays the convenience store clerk seen at the beginning of Juno?",
+    "Option1": "Bill Hader",
+    "Option2": "Rainn Wilson",
+    "Option3": "Andy Samberg",
+    "Option4": "Jonah Hill",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 78,
+    "Category": "None",
+    "Question": "Which movie musical stars Meryl Streep and Amanda Seyfried as a musical mother and daughter living on a Greek island?",
+    "Option1": "Mamma Mia!",
+    "Option2": "Burlesque",
+    "Option3": "Chicago",
+    "Option4": "La La Land",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 79,
+    "Category": "None",
+    "Question": "What is the name of Rapunzel's pet chameleon in Tangled?",
+    "Option1": "Picasso",
+    "Option2": "Pesto",
+    "Option3": "Pint",
+    "Option4": "Pascal",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 80,
+    "Category": "None",
+    "Question": "Which actress has the most Oscar wins?",
+    "Option1": "Katharine Hepburn",
+    "Option2": "Meryl Streep",
+    "Option3": "Ingrid Bergman",
+    "Option4": "Elizabeth Taylor",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 81,
+    "Category": "None",
+    "Question": "When was the first Mission: Impossible movie released?",
+    "Option1": 1993,
+    "Option2": 1996,
+    "Option3": 1997,
+    "Option4": 1998,
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 82,
+    "Category": "None",
+    "Question": "How many movies did Fred Astaire and Ginger Rogers do together?",
+    "Option1": 7,
+    "Option2": 9,
+    "Option3": 10,
+    "Option4": 12,
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 83,
+    "Category": "None",
+    "Question": "Who voices Lenny the Shark in 2004's Shark Tale?",
+    "Option1": "Adam Sandler",
+    "Option2": "Will Ferrell",
+    "Option3": "Jack Black",
+    "Option4": "Jimmy Fallon",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 84,
+    "Category": "None",
+    "Question": "What movie is this famous quote from: \"You can't handle the truth\"?",
+    "Option1": "Training Day",
+    "Option2": "Saving Private Ryan",
+    "Option3": "A Few Good Men",
+    "Option4": "Armageddon",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 85,
+    "Category": "None",
+    "Question": "Which romantic movie does not feature Ryan Reynolds?",
+    "Option1": "The Proposal",
+    "Option2": "Definitely, Maybe",
+    "Option3": "Just Friends",
+    "Option4": "He's Just Not That Into You",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 86,
+    "Category": "None",
+    "Question": "Which character in The Godfather is nicknamed \"The Turk'?",
+    "Option1": "Emilio Barzini",
+    "Option2": "Sonny Corleone",
+    "Option3": "Virgil Sollozzo",
+    "Option4": "Salvatore Tessio",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 87,
+    "Category": "None",
+    "Question": "Which comedian makes a zombie cameo in Zombieland?",
+    "Option1": "Dan Aykroyd",
+    "Option2": "Chevy Chase",
+    "Option3": "Steve Martin",
+    "Option4": "Bill Murray",
+    "Answer": "Option 4"
+  },
+  {
+    "Sq": 88,
+    "Category": "None",
+    "Question": "How many times has A Star Is Born, which was originally released in 1937, been remade?",
+    "Option1": 2,
+    "Option2": 3,
+    "Option3": 4,
+    "Option4": 5,
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 89,
+    "Category": "None",
+    "Question": "Which actress plays Julia Child in Julia & Julia?",
+    "Option1": "Meryl Streep",
+    "Option2": "Diane Keaton",
+    "Option3": "Jane Fonda",
+    "Option4": "Joan Cusack",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 90,
+    "Category": "None",
+    "Question": "Which movie does not feature Winona Ryder?",
+    "Option1": "Lucas",
+    "Option2": "What's Eating Gilbert Grape",
+    "Option3": "Bram Stoker's Dracula",
+    "Option4": "Girl, Interrupted",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 91,
+    "Category": "None",
+    "Question": "Which movie does not star Adam Sandler and Drew Barrymore?",
+    "Option1": "The Wedding Singer",
+    "Option2": "Fever Pitch",
+    "Option3": "Blended",
+    "Option4": "50 First Dates",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 92,
+    "Category": "None",
+    "Question": "What was Tyler Perry's first movie as Madea?",
+    "Option1": "Madea's Family Reunion",
+    "Option2": "Meet the Browns",
+    "Option3": "Diary of a Mad Black Woman",
+    "Option4": "Madea Goes to Jail",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 93,
+    "Category": "None",
+    "Question": "Around how long did it take to make The Nightmare Before Christmas?",
+    "Option1": "Two years",
+    "Option2": "Three years",
+    "Option3": "Five years",
+    "Option4": "Six years",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 94,
+    "Category": "None",
+    "Question": "What's the name of the planet Obi-Wan Kenobi and Anakin Skywalker duel on in Star Wars Episode III: Revenge of the Sith?",
+    "Option1": "Hoth",
+    "Option2": "Mustafar",
+    "Option3": "Yavin",
+    "Option4": "Tatooine",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 95,
+    "Category": "None",
+    "Question": "What is the name of Jessie's horse in Toy Story 2?",
+    "Option1": "Longshot",
+    "Option2": "Gallop",
+    "Option3": "Bullseye",
+    "Option4": "Dart",
+    "Answer": "Option 3"
+  },
+  {
+    "Sq": 96,
+    "Category": "None",
+    "Question": "What college did Harry and Sally attend in When Harry Met Sally?",
+    "Option1": "University of Chicago",
+    "Option2": "Ohio State",
+    "Option3": "Northwestern University",
+    "Option4": "New York University",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 97,
+    "Category": "None",
+    "Question": "Who played Officer Slater in Superbad?",
+    "Option1": "Joe Lo Truglio",
+    "Option2": "Bill Hader",
+    "Option3": "Jason Segel",
+    "Option4": "Zach Braff",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 98,
+    "Category": "None",
+    "Question": "Who says the iconic \"As if!\" line in Clueless?",
+    "Option1": "Cher",
+    "Option2": "Tai",
+    "Option3": "Dionne",
+    "Option4": "Amber",
+    "Answer": "Option 1"
+  },
+  {
+    "Sq": 99,
+    "Category": "None",
+    "Question": "Which actor hasn't played Spider-Man?",
+    "Option1": "Tobey Maguire",
+    "Option2": "Topher Grace",
+    "Option3": "Andrew Garfield",
+    "Option4": "Tom Holland",
+    "Answer": "Option 2"
+  },
+  {
+    "Sq": 100,
+    "Category": "None",
+    "Question": "What year does Dirty Dancing take place?",
+    "Option1": 1959,
+    "Option2": 1963,
+    "Option3": 1965,
+    "Option4": 1969,
+    "Answer": "Option 2"
+  }
+]
